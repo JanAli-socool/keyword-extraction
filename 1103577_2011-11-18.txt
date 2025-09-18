@@ -1,0 +1,2398 @@
+<SEC-DOCUMENT>0001437749-11-008827.txt : 20111121
+<SEC-HEADER>0001437749-11-008827.hdr.sgml : 20111121
+<ACCEPTANCE-DATETIME>20111118165516
+ACCESSION NUMBER:		0001437749-11-008827
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20111216
+FILED AS OF DATE:		20111118
+DATE AS OF CHANGE:		20111118
+EFFECTIVENESS DATE:		20111118
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SPARE BACKUP, INC.
+		CENTRAL INDEX KEY:			0001103577
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				233030650
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-30587
+		FILM NUMBER:		111216659
+
+	BUSINESS ADDRESS:	
+		STREET 1:		72757 FRED WARING DRIVE
+		CITY:			PALM DESERT
+		STATE:			CA
+		ZIP:			92260
+		BUSINESS PHONE:		760-779-0251
+
+	MAIL ADDRESS:	
+		STREET 1:		72757 FRED WARING DRIVE
+		CITY:			PALM DESERT
+		STATE:			CA
+		ZIP:			92260
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NEWPORT INTERNATIONAL GROUP INC
+		DATE OF NAME CHANGE:	20010205
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONSERVATION ANGLERS MFG INC
+		DATE OF NAME CHANGE:	20001113
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CONSERVATION ANGLERS MGF INC
+		DATE OF NAME CHANGE:	20001109
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<FILENAME>spare_defa14a-121611.htm
+<DESCRIPTION>DEF 14A
+<TEXT>
+<html>
+<head>
+    <title>spare_defa14a-121611.htm</title>
+    <!--Licensed to: RDG Filings-->
+    <!--Document Created using EDGARizerAgent 5.4.0.0-->
+    <!--Copyright 1995 - 2009 Thomson Reuters. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">SCHEDULE 14A INFORMATION</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Proxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">(Amendment No. _)</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td colspan="2" valign="top" width="5%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Filed by the Registrant</font></div>
+</td>
+<td valign="top" width="9%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: wingdings">x</font></div>
+</td>
+<td valign="top" width="31%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr><tr>
+<td colspan="2" valign="top" width="5%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Filed by a party other than the Registrant</font></div>
+</td>
+<td valign="top" width="9%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></div>
+</td>
+<td valign="top" width="31%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr><tr>
+<td align="left" colspan="3" valign="top" width="14%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Check the appropriate box:</font></div>
+</td>
+<td valign="top" width="31%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="5%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></div>
+</td>
+<td align="left" colspan="3" valign="top" width="9%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Preliminary Proxy Statement</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="5%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></div>
+</td>
+<td align="left" colspan="3" valign="top" width="9%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="5%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: wingdings">x</font></div>
+</td>
+<td colspan="3" valign="top" width="9%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Definitive Proxy Statement</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="5%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></div>
+</td>
+<td colspan="3" valign="top" width="9%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Definitive Additional Materials</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="5%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></div>
+</td>
+<td colspan="3" valign="top" width="9%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Soliciting Material Under &#167;240.14(a)(12)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="80%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">Spare Backup, Inc.</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="80%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">(Name of Registrant as Specified in Its Charter)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="80%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">Not Applicable</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="80%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">(Name of Person(s) Filing Proxy Statement, if other than the Registrant)</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td colspan="3" valign="top" width="79%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Payment of Filing Fee (Check the appropriate box):</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: wingdings">x</font></div>
+</td>
+<td colspan="2" valign="top" width="71%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">No fee required.</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></div>
+</td>
+<td colspan="2" valign="top" width="71%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Fee computed on table below per Exchange Act Rules 14a-6(i)(4) and 0-11.</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="8%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="5%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">(1)</font></div>
+</td>
+<td valign="top" width="66%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Title of each class of securities to which transaction applies:</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="8%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="5%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">(2)</font></div>
+</td>
+<td valign="top" width="66%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Aggregate number of securities to which transaction applies:</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="8%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="5%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">(3)</font></div>
+</td>
+<td align="left" valign="top" width="66%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="8%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="5%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">(4)</font></div>
+</td>
+<td valign="top" width="66%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Proposed maximum aggregate value of the transaction:</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="8%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="5%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">(5)</font></div>
+</td>
+<td valign="top" width="66%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Total fee paid:</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></div>
+</td>
+<td colspan="2" valign="top" width="71%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Fee paid previously with preliminary materials.</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="8%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></div>
+</td>
+<td align="left" colspan="2" valign="top" width="71%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously.&#160;&#160;Identify the previous filing by registration statement number, or the Form or Schedule and the date of its filing.</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="8%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="5%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">(1)</font></div>
+</td>
+<td valign="top" width="66%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Amount Previously Paid:</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="8%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="5%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">(2)</font></div>
+</td>
+<td valign="top" width="66%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Form, Schedule or Registration Statement No.:</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="8%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="5%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">(3)</font></div>
+</td>
+<td valign="top" width="66%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Filing Party:</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="8%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="5%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">(4)</font></div>
+</td>
+<td valign="top" width="66%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Date Filed:</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">SPARE BACKUP, INC.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">990 Ironwood Drive</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Minden, Nevada 89423</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Telephone: (775)392-2180</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">NOTICE OF SPECIAL MEETING OF STOCKHOLDERS</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">TO BE HELD ON DECEMBER 16, 2011</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">To the stockholders of Spare Backup, Inc.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>You are cordially invited to attend a special meeting of stockholders of Spare Backup, Inc. to be held at our principal offices at 990 Ironwood Drive, Minden, NV 89423 on Friday, December 16, 2011 at 9 a.m., local time.&#160;&#160;At the special meeting you will be asked to vote on the following matters:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">1.</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">To approve a Certificate of Amendment to our Certificate of Incorporation increasing the number of authorized shares of our common stock from 300,000,000 shares to 450,000,000 shares (the "Recapitalization Amendment"), and</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">2.</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">To consider and act upon any other business as may properly come before the special meeting or any adjournments thereof.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>The Board of Directors recommends that you vote "FOR" Proposal 1.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>These items of business are more fully described in the proxy statement that is attached to this Notice.&#160;&#160;The Board of Directors has fixed the close of business on November 8, 2011 as the Record Date for determining the stockholders that are entitled to notice of and to vote at the special meeting and any adjournments thereof.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Your vote is important regardless of the number of shares you own.&#160;&#160;All stockholders are invited to attend the special meeting in person.&#160;&#160;Whether or not you plan to attend the special meeting in person, please take the time to vote by completing, signing and dating the enclosed proxy card and returning it promptly in the postage-paid envelope.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>You may attend the special meeting and vote in person even if you have previously voted by proxy.&#160;&#160;Your proxy is revocable in accordance with the procedures set forth in the proxy statement.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>&#160;</div>
+
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-FAMILY: arial">By Order of the Board of Directors</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-FAMILY: arial">/s/ <font style="DISPLAY: inline; FONT-STYLE: italic; FONT-FAMILY: times new roman">Cery Perle</font></font></font></div>
+</td>
+</tr><tr>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Minden, Nevada&#160;&#160;</font></td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Cery Perle</font></td>
+</tr><tr>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">November 23, 2011&#160;</font></td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160;</font></td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">Chief Executive Officer</font></td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font><font style="DISPLAY: inline; FONT-FAMILY:
+Arial">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">TABLE OF CONTENTS</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="68%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="11%" style="TEXT-ALIGN: center">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial; TEXT-DECORATION: underline">Page No.</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="68%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr><tr bgcolor="#c0ffff">
+<td align="left" valign="top" width="68%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">General</font></div>
+</td>
+<td valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">1</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="top" width="68%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Questions and Answers</font></div>
+</td>
+<td valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">1</font></div>
+</td>
+</tr><tr bgcolor="#c0ffff">
+<td align="left" valign="top" width="68%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Who Can Help Answer Your Questions</font></div>
+</td>
+<td valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">4</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="top" width="68%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Principal Stockholders</font></div>
+</td>
+<td valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">4</font></div>
+</td>
+</tr><tr bgcolor="#c0ffff">
+<td align="left" valign="top" width="68%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Proposal 1 - Approval of Certificate of Amendment to our Certificate of Incorporation increase the number of authorized shares of common stock from 300,000,000 shares to 450,000,000 shares.</font></div>
+</td>
+<td valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">5</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="top" width="68%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Other Matters</font></div>
+</td>
+<td valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">7</font></div>
+</td>
+</tr><tr bgcolor="#c0ffff">
+<td align="left" valign="top" width="68%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Dissenter's Rights</font></div>
+</td>
+<td valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">7</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="top" width="68%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Proposals of Stockholders</font></div>
+</td>
+<td valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">7</font></div>
+</td>
+</tr><tr bgcolor="#c0ffff">
+<td align="left" valign="top" width="68%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Annual Report on Form 10-K</font></div>
+</td>
+<td valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">7</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="top" width="68%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Where You Can Find More Information</font></div>
+</td>
+<td valign="top" width="11%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">7</font></div>
+</td>
+</tr><tr bgcolor="#c0ffff">
+<td valign="top" width="68%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td valign="top" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr><tr bgcolor="white">
+<td align="left" valign="top" width="68%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Appendix A - Form of Certificate of Amendment to Certificate of Incorporation (Proposal 1)</font></div>
+</td>
+<td valign="top" width="11%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-STYLE: italic; FONT-FAMILY: Arial">Stockholders Should Read the Entire Proxy Statement</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-STYLE: italic; FONT-FAMILY: Arial">Carefully Prior to Returning Their Proxies</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">PROXY STATEMENT</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">FOR</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">SPECIAL MEETING OF STOCKHOLDERS</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">OF</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">SPARE BACKUP, INC.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">General</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>The enclosed proxy is solicited on behalf of the Board of Directors of Spare Backup, Inc. for use at our special meeting of stockholders to be held on Friday, December 16, 2011 at 9 a.m., local time, and at any adjournments thereof.&#160;&#160;The special meeting will be held at our principal offices at 990 Ironwood Drive, Minden, NV 89423, telephone (775) 392-2180.&#160;&#160;Voting materials, including this proxy statement and the proxy card, were mailed on or about November 23, 2011 to all stockholders entitled to vote at the special meeting.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Questions and Answers</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Following are some commonly asked questions raised by our stockholders and answers to each of those questions.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Q:&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;What may I vote on at the special meeting?</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">A:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;At the special meeting, stockholders will consider and vote upon the following matters:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial">To approve a Certificate of Amendment to our Certificate of Incorporation increasing the number of authorized shares of common stock from 300,000,000 shares to 450,000,000 shares (the "Recapitalization Amendment"),</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial">To consider and act upon any other business as may properly come before the special meeting or any adjournments thereof.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Q:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;How does the Board of Directors recommend that I vote on the proposal?</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Times New Roman">A:</font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">The Board of Directors recommends a vote &#8220;FOR&#8221; the proposal.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Q:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;How can I vote my shares at the special meeting?</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">A:</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">If your shares are registered directly in your name with our transfer agent, Continental Stock Transfer &amp; Trust Company, you are considered the stockholder of record with respect to those shares and we are sending the proxy materials and proxy card directly to you.&#160;&#160;As the stockholder of record, you have the right to vote in person at the special meeting.&#160;&#160;If you choose to do so, you can bring the enclosed proxy card or vote at the special meeting using the ballot provided at the meeting.&#160;&#160;Even if you plan to attend the special meeting in person, we recommend that you vote your shares in advance as described below so that your vote will be counted if you later decide not to attend the special meeting in person.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Many of our stockholders hold their shares in street name through a stockbroker, bank or other nominee rather than directly in their own name.&#160;&#160;In that case, you are considered the beneficial owner of shares held in street name, and the proxy materials are being forwarded to you together with a voting instruction card.&#160;&#160;As the beneficial owner, you are also invited to attend the special meeting.&#160;&#160;Because a beneficial owner is not the stockholder of record, you may not vote these shares in person at the special meeting unless you obtain a "legal proxy" from the stockbroker, trustee or nominee that holds your shares, giving you the right to vote the shares at the meeting.&#160;&#160;You will need to contact your stockbroker, trustee or nominee to obtain a legal proxy, and you will need to
+bring it to the special meeting in order to vote in person.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">1</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Q:</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">How can I vote my shares without attending the special meeting?</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Times New Roman">A:</font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Whether you hold shares directly as a stockholder of record or beneficially in street name, you may direct your vote without attending the special meeting by completing, signing and dating the enclosed proxy card and returning it promptly in the postage-paid envelope.&#160;&#160;Please refer to the enclosed materials for details. If you are a stockholder of record and plan to attend the special meeting, you may vote in person at the meeting. We will give you a ballot when you arrive.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">If you are a beneficial owner of shares held in street name and you wish to vote in person at the special meeting, you must obtain a valid proxy from the organization that holds your shares. If you do not obtain a valid proxy from your bank or broker, you will not be entitled to vote your shares, but you can still attend the special meeting if you bring a recent bank or brokerage statement showing that you were the beneficial owner of the shares on November 8, 2011, the Record Date for voting.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Q:</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">What happens if additional matters are presented at the special meeting?</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Times New Roman">A:</font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Other than the approval of the Recapitalization Amendment, we are not aware of any other business to be acted upon at the special meeting.&#160;&#160;If you grant a proxy, the person named as proxy holder, Mr. Cery Perle, our CEO, will have the discretion to vote your shares on any additional matters properly presented for a vote at the special meeting.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Q:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;What happens if I do not give specific voting instructions?</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Times New Roman">A</font>:</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">If you hold shares in your name, and you sign and return a proxy card without giving specific voting instructions, your shares will be voted as recommended by our Board of Directors on the proposal and as the proxy holder may determine in his discretion with respect to any other matters properly presented for a vote before the special meeting.&#160;&#160;If you hold your shares through a stockbroker, bank or other nominee and you do not provide instructions on how to vote, your stockbroker or other nominee may exercise their discretionary voting power with respect to the proposal.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Q:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;What is the quorum requirement for the special meeting?</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Times New Roman">A</font>:</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">On the Record Date of November 8, 2011 there were 285,281,103 shares of our common stock, 50,000 shares of our Series A Preferred Stock and 100,000 shares of our Series B Preferred Stock (collectively, our "Voting Shares") outstanding which are our only classes of voting securities.&#160;&#160;Each share of common stock entitles the holder to one vote, each share of Series A Preferred Stock entitles the holder to 400 votes and each share of Series B Preferred Stock entitles the holder to 400 votes, at any meeting of our stockholders and the shares of common stock, the shares of Series A Preferred Stock and the shares of Series B Preferred Stock vote together on all matters submitted to a vote of our stockholders.&#160;&#160;A majority of our outstanding Voting Shares as of the Record Date must be present at the special
+meeting (in person or represented by proxy) in order to hold the meeting and conduct business.&#160;&#160;This is called a quorum.&#160;&#160;Your shares will be counted for purposes of determining if there is a quorum, even if you wish to abstain from voting on matters introduced at the special meeting, if you are present and vote in person at the meeting or have properly submitted a proxy card.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Q:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;How can I change my vote after I return my proxy card?</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Times New Roman">A:</font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">You may revoke your proxy and change your vote at any time before the final vote at the special meeting.&#160;&#160;You may do this by signing a new proxy card with a later date or by attending the special meeting and voting in person.&#160;&#160;However, your attendance at the special meeting will not automatically revoke your proxy unless you vote at the special meeting or specifically request in writing that your prior proxy be revoked.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">2</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Q:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Is my vote confidential?</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Times New Roman">A</font>.</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Proxy instructions, ballots and voting tabulations that identify individual stockholders are handled in a manner that protects your voting privacy.&#160;&#160;Your vote will not be disclosed either within our company or to third parties, except:</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">-</font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">as necessary to meet applicable legal requirements,</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">-</font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">to allow for the tabulation of votes and certification of the vote, and</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman">-</font></font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">to facilitate a successful proxy solicitation.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Any written comments that a stockholder might include on the proxy card will be forwarded to our management.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Q:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Where can I find the voting results of the special meeting?</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Times New Roman">A</font>:</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">The preliminary voting results will be announced at the meeting.&#160;&#160;The final voting results will be tallied by our transfer agent and Inspector of Elections and published in a Current Report on Form 8-K to be filed with the Securities and Exchange Commission within four days following the date of the special meeting.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Q:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;How can I obtain a separate set of voting materials?</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Times New Roman">A</font>:</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">To reduce the expense of delivering duplicate voting materials to our stockholders who may have more than one Spare Backup stock account, we are delivering only one set of the proxy materials to certain stockholders who share an address, unless otherwise requested.&#160;&#160;A separate proxy card is included in the voting materials for each of these stockholders.&#160;&#160;If you share an address with another stockholder and have received only one set of voting materials, you may write or call us to request to receive a separate copy of these materials at no cost to you.&#160;&#160;Similarly, if you share an address with another stockholder and have received multiple copies of our proxy materials, you may write or call us at the address and phone number below to request delivery of a single copy of these
+materials.&#160;&#160;For future special meetings, you may request separate voting materials, or request that we send only one set of voting materials to you if you are receiving multiple copies, by writing or calling us at:</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Spare Backup, Inc.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Attention: Cery Perle</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">990 Ironwood Drive</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Minden, Nevada 89423</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Telephone: (775) 392-2180</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Q:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Who pays for the cost of this proxy solicitation?</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Times New Roman">A</font>:</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">We will pay the costs of the solicitation of proxies.&#160;&#160;We may also reimburse brokerage firms and other persons representing beneficial owners of shares for expenses incurred in forwarding the voting materials to their customers who are beneficial owners and obtaining their voting instructions.&#160;&#160;In addition to soliciting proxies by mail, our board members, officers, and employees may solicit proxies on our behalf, without additional compensation, personally or by telephone.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Q:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;What is the voting requirement to approve the proposal?</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Times New Roman">A</font>:</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">The proposal to approve the Recapitalization Amendment will be approved if the holders of a majority of the outstanding Voting Shares on the Record Date cast votes "FOR" the proposal.&#160;&#160;Abstentions and broker non-votes will be treated as shares that are present, or represented and entitled to vote for purposes of determining the presence of a quorum at the special meeting.&#160;&#160;Broker non-votes will not be counted as a vote cast on any matter presented at the special meeting.&#160;&#160;Abstentions will not be counted in determining the number of votes cast in connection with any matter presented at the special meeting.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">3</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Q:</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">How can I communicate with the non-employee directors on Spare Backup&#8217;s Board of Directors?</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">A:</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">The Board of Directors encourages stockholders who are interested in communicating directly with the non-employee directors as a group to do so by writing to the non-employee directors in care of our corporate secretary. Stockholders can send communications by mail to:</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Mr. Cery Perle,</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Chief Executive</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Spare Backup, Inc.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">990 Ironwood Drive</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Minden, Nevada 89423</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Telephone: (775) 392-2180</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Correspondence received that is addressed to the non-employee directors will be reviewed by our CEO or his designee, who will regularly forward to the non-employee directors a summary of all such correspondence and copies of all correspondence that, in the opinion of our CEO, deals with the functions of the Board of Directors or committees thereof or that our CEO otherwise determines requires their attention.&#160;&#160;Directors may at any time review a log of all correspondence received by us that is addressed to the non-employee members of the Board of Directors and request copies of any such correspondence.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">WHO CAN HELP ANSWER YOUR QUESTIONS?</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">You may seek answers to your questions by writing or calling us at our principal executive offices:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Mr. Cery Perle,</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Chief Executive</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Spare Backup, Inc.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">990 Ironwood Drive</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Minden, Nevada 89423</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Telephone: (775) 392-2180</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">PRINCIPAL STOCKHOLDERS</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Our voting securities are comprised of our common stock, our Series A Preferred Stock and our Series B Preferred Stock.&#160;&#160;At November 8, 2011 there were 285,281,103 shares of our common stock, 50,000 shares of our Series A Preferred Stock and 100,000 shares of Series B Preferred Stock issued and outstanding.&#160;&#160;Each share of common stock entitles the holder to one vote and each share of both the Series A Preferred Stock and Series B Preferred Stock entitles the holder to 400 votes at any meeting of our stockholders.&#160;&#160;The shares of common stock, the Series A Preferred Stock and the Series B Preferred Stock vote together on all matters submitted to a
+vote of our stockholders.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>The following table contains information regarding record ownership of our common stock as of November 8, 2011 held by:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial">persons who own beneficially more than 5% of our outstanding voting securities,</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial">our directors,</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial">named executive officers, and</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial">all of our directors and officers as a group.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>A person is deemed to be the beneficial owner of securities that can be acquired by such a person within 60 days from November 8, 2011, upon exercise of options, warrants or convertible securities.&#160;&#160;Each beneficial owner's percentage ownership is determined by assuming that options, warrants and convertible securities that are held by such a person (but not those held by any other person) and are exercisable within 60 days from that date have been exercised.&#160;&#160;Unless otherwise indicated, the address of each of the listed beneficial owners identified is 72757 Fred Waring Drive, Palm Desert, California 92260.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">4</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="51%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-TOP: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td colspan="6" valign="top" width="42%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-TOP: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">Amount and Nature of Beneficial Ownership</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-TOP: black 1.5pt solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="51%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+<td colspan="2" valign="top" width="14%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">Common</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">Stock</font></div>
+</td>
+<td colspan="2" valign="top" width="14%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">Series A</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">Preferred Stock</font></div>
+</td>
+<td colspan="2" valign="top" width="14%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">Series B</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">Preferred Stock</font></div>
+</td>
+<td rowspan="2" valign="bottom" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">% of</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">Total</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">Vote</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="51%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">Name</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial"># of</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">Shares</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">% of</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">Class</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial"># of</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">Shares</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">% of</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">Class</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial"># of</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">Shares</font></div>
+</td>
+<td valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">% of</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: arial">Class</font></div>
+</td>
+</tr><tr bgcolor="#c0ffff">
+<td valign="top" width="51%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Cery B. Perle <font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top; FONT-FAMILY: times new roman">(1)</font></font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">18,127,694</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">6.1%</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">50,000</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">100%</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">0</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">-</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">12.8%</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="51%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Ivor Newman <font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top; FONT-FAMILY: times new roman">(2)</font></font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">5,250,000</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">1.8%</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">0</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">n/a</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">0</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">-</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">1.5%</font></div>
+</td>
+</tr><tr bgcolor="#c0ffff">
+<td valign="top" width="51%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Andy Zeinfeld <font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top; FONT-FAMILY: times new roman">(3)</font></font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">1,000,000</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">*</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">0</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">n/a</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">50,000</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">50%</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">6.1%</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="top" width="51%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">All named executive officers and directors as a group (three persons) <font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top; FONT-FAMILY: times new roman">(1),(2), and (3)</font></font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">24,377,694</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">8.3%</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">50,000</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">100%</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">50,000</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">50%</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">20.4%</font></div>
+</td>
+</tr><tr bgcolor="#c0ffff">
+<td align="left" valign="top" width="51%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Robbins Capital Partners L.P. <font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top; FONT-FAMILY: times new roman">(4)</font></font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">20,875,528</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">7.3%</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">0</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">-</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">0</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">-</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">6.0%</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="51%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: arial">Daniel X. Wray <font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top; FONT-FAMILY: times new roman">(5)</font></font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">20,966,666</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">7.2%</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">0</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">-</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">50,000</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">50%</font></div>
+</td>
+<td align="right" valign="top" width="7%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-FAMILY: arial">11.7%</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial">*&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;represents less than 1%</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top; FONT-FAMILY: Times New Roman">(1)</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The number of shares of common stock beneficially owned by Mr. Perle includes 5,809,694 shares of common stock, of which 1,085,194 shares are held by Mr. Perle, 4,000,000 shares are held in a trust for his benefit and 724,500 shares held in a trust for his minor children and 12,318,000 shares of common stock underlying options which are exercisable at a range of $0.01 per share to $0.18 per share.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top; FONT-FAMILY: Times New Roman">(2)</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The number of shares beneficially owned by Mr. Newman includes 4,250,000 shares of common stock underlying options which are exercisable at a range of $0.08 per share to $0.18 per share.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top; FONT-FAMILY: Times New Roman">(3)</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The number of shares beneficially owned by Mr. Zeinfeld includes 500,000 shares of common stock owned by his wife, 500,000 shares of common stock underlying options which are exercisable at a $0.09 per share and 50,000 shares of Series B Preferred Stock.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top; FONT-FAMILY: Times New Roman">(4)</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The number of shares beneficially owned by Robbins Capital Partners L.P. includes 18,847,000 outstanding shares of common stock and 2,028,528 shares of common stock underlying warrants which are exercisable at a range of $0.10 to $0.20 per share.&#160;&#160;Robbins Capital Partners L.P.&#8217;s address is 100 First Stamford Place, 6th Floor, East Stamford, CT.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-SIZE: 70%; VERTICAL-ALIGN: text-top; FONT-FAMILY: Times New Roman">(5)</font>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The number of shares beneficially owned by Mr. Wray includes 7,416,666 shares of common stock held by him, 8,550,000 shares of common stock held by Biofilm, Inc. over which he has voting and dispositive control, 5,000,000 shares of common stock underlying warrants which are exercisable at $0.09 per share and 50,000 shares of Series B Preferred Stock.&#160;&#160;Mr. Wray&#8217;s address is Post Office Box 2649, Minden, NV</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">DESCRIPTION OF SECURITIES</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Authorized capital</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>We are currently authorized to issue 300,000,000 shares of common stock, par value $0.001 per share, and 5,000,000 shares of preferred stock, par value $0.001 per share.&#160;&#160;Following are the material terms of our capital stock.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">5</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Common sock</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>The holders of our common stock are entitled to one vote per share on all matters submitted to a vote of stockholders, including the election of directors.&#160;&#160;There is no right to cumulate votes in the election of directors.&#160;&#160;The holders of common stock are entitled to any dividends that may be declared by the Board of Directors out of funds legally available for payment of dividends subject to the prior rights of holders of preferred stock and any contractual restrictions we have against the payment of dividends on common stock.&#160;&#160;In the event of our liquidation or dissolution, holders of common stock are entitled to share ratably in all assets
+remaining after payment of liabilities and the liquidation preferences of any outstanding shares of preferred stock.&#160;&#160;Holders of common stock have no preemptive rights and have no right to convert their common stock into any other securities.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Preferred stock</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Our preferred stock is issuable in one or more series with such designations, voting powers, if any, preferences and relative, participating, optional or other special rights, and such qualifications, limitations and restrictions, as are determined by resolution of our Board of Directors.&#160;&#160;We have designated a series of 50,000 shares of our preferred stock as Series A Preferred Stock and a series of 150,000 shares of preferred stock as Series B Preferred Stock.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Series A Preferred Stock</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">The designations, rights and preferences of the Series A Preferred Stock are as follows:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">each share has a stated value and a liquidation preference of $0.001 per share which equals the par value of the shares,</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial">the shares are not convertible or exchange into any other security,</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">each share entitles the holder to 400 votes at any meeting of our stockholders and such shares will vote together with our common stockholders and holders of our Series B Preferred Stock,</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">holders of Series A Preferred Stock shall have no rights to receive dividend distributions or to participate in any dividends declared by us to or for the benefit of the holders of our common stock,</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial">the shares are not subject to redemption, and</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">so long as the shares are outstanding, we have agreed not to alter or change the rights of the security in a manner which would adversely affect the Series A Preferred Stock, increase or decrease the number of shares of Series A Preferred Stock, or take any action which would result in the taxation of the holder under Section 305 of the Internal Revenue Code, without the affirmative vote of the holders of a majority of the voting power of the shares of Series A Preferred Stock then outstanding.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Series B Preferred Stock</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>The designations, rights and preferences of the <a name="jump_exp_3"><!--EFPlaceholder--></a><a name="jump_exp_4"><!--EFPlaceholder--></a>Series <a name="jump_exp_5"><!--EFPlaceholder--></a>B <a name="jump_exp_6"><!--EFPlaceholder--></a>Preferred Stock are as follows:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">each share has a stated value and a liquidation preference of $0.001 per share which equals the par value of the shares,</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">the shares are not convertible or exchange into any other security,</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">each share entitles the holder to 400 votes at any meeting of our stockholders and such shares will vote together with our common stockholders and holders of our Series A Preferred Stock,</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">holders of Series A Preferred Stock shall have no rights to receive dividend distributions or to participate in any dividends declared by us to or for the benefit of the holders of our common stock,</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">the shares are not subject to redemption,</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">the rights granted to the Series B Preferred Stockholders will lapse one year from the date of issuance, and</font></div>
+</td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">6</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div>&#160;</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top" style="LINE-HEIGHT: 1.25;">
+<td style="WIDTH: 36pt">
+<div><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</td>
+<td style="WIDTH: 36pt">
+<div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;</font></div>
+</td>
+<td>
+<div align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">so long as the shares are outstanding, we have agreed not to alter or change the rights of the security in a manner which would adversely affect the Series B Preferred Stock, increase or decrease the number of shares of Series B Preferred Stock, or take any action which would result in the taxation of the holder under Section 305 of the Internal Revenue Code, without the affirmative vote of the holders of a majority of the voting power of the shares of Series B Preferred Stock then outstanding.</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>As a result of the voting rights attributable to the holders of the Series A Preferred Stock and Series B Preferred Stock, the majority of which such shares are held by members of our Board of Directors, these shares may have the effect of delaying, deferring or preventing a change in control of our company without further action by stockholders, and could adversely affect the rights and powers, including voting rights, of the holders of common stock.&#160;&#160;Although the shares of Series A Preferred Stock and Series B Preferred Stock were not created for this purpose, in the future the Board could, subject to its fiduciary duties and applicable law, use its voting power to
+frustrate persons seeking to take over or otherwise gain control of our company. The holders of our Series A Preferred Stock and Series B Preferred Stock could also vote in a manner to assure that any proposal to amend or repeal our Bylaws or provisions of our Certificate of Incorporation would not receive the requisite vote.&#160;&#160;In addition, our Board, also subject to its fiduciary duties, could designate and issue additional series of preferred stock with designations, rights and preferences that could give a holder sufficient voting power to assure that any proposal to amend or repeal our Bylaws or provisions of our Certificate of Incorporation would not receive the requisite vote.&#160;&#160;Such uses of our securities could render more difficult, or discourage, an attempt to acquire control of our company if such transactions were opposed by the Board, members of which are
+the holders of our Series A Preferred Stock and Series B Preferred Stock.&#160;&#160;We are not aware of any party's interest in or efforts to engage in a hostile takeover attempt as of the date of this proxy statement, and our Board has no present intention to designate or issue any additional shares of preferred stock at this time.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">MATTERS TO BE CONSIDERED AT THE SPECIAL MEETING</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">PROPOSAL 1</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; TEXT-DECORATION: underline">APPROVAL OF THE RECAPITALIZATION AMENDMENT</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Our authorized capital currently consists of 300,000,000 shares of common stock, par value $0.001 per share, and 5,000,000 shares of preferred stock, par value $0.001 per share.&#160;&#160;The preferred stock is issuable in such series, and with such designations, rights and preferences, as our Board of Directors may determine from time to time without the consent of our stockholders.&#160;&#160;We have designated 50,000 shares of preferred stock as Series A Preferred Stock and 150,000 shares of preferred stock as Series B Preferred Stock.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>The purpose of the Recapitalization Amendment is to increase the number of authorized but unissued shares of our common stock to from 300,000,000 shares to 450,000,000 shares.&#160;&#160;We do not presently have a sufficient number of authorized but unissued shares to provide for the exercise of all currently outstanding options and warrants or the conversion of our convertible debt.&#160;&#160;As of November 8, 2011, there were 285,281,103 shares of our common stock outstanding, 11,010,023 shares underlying convertible notes, options and warrants to purchase an additional 98,610,989 shares of our common stock which are presently exercisable.&#160;&#160;Assuming the conversion
+of all convertible notes and the exercise of all outstanding options and warrants, we could be obligated to issue 109,621,012 shares of our common stock more than our presently authorized shares.&#160;&#160;In addition, there are 4,047,053 shares of our common stock reserved for issuance under our 2002 Stock Option and Stock Award Plan.&#160;&#160;The Recapitalization Amendment will provide a sufficient number of shares of our common stock to permit the exercise of the outstanding options and warrants, the conversion of the convertible debt and the granting of additional shares or options under our 2002 Stock Option and Stock Award Plan.&#160;&#160;Assuming that we do not issue any additional shares of common stock prior to the effective time of the Recapitalization Amendment, as a result of the increase in the number of our authorized shares of common stock we will then have 55,097,885
+of unissued and unreserved shares of common stock available for future issuances.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">7</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div>&#160;</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><a name="exp29"><!--EFPlaceholder--></a>These additional shares may be issued by our Board of Directors in its sole discretion.&#160;&#160;The additional shares could be used, among other things, for public or private financings to raise additional capital, for the declaration of stock splits or stock dividends, for acquisitions of other companies, for the expansion of business operations, or for the issuance of stock under warrants granted or to be granted in the future.&#160;&#160;We will need to raise additional capital during 2011 and beyond in order to fund our operations and we anticipate that funding will come through the sale of equity securities or securities that are convertible into equity
+securities.&#160;&#160;However, we have no specific plans or agreements at this time with respect to any additional financing transactions and no assurances can be given that a financing transaction or transactions will take place or will be available on terms that are favorable to our company.&#160;&#160;<font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Times New Roman">There are currently no other plans, agreements, arrangements, or understanding, for the issuance of additional shares of common stock.&#160;&#160;&#160;</font>Any future issuance will have the effect of diluting the percentage of stock ownership and voting rights of the present holders of our common stock.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>The Recapitalization Amendment which increases the number of authorized shares of our common stock may be contrasted as having an anti-takeover effect.&#160;&#160;Although the amendment was not adopted for this purpose, in the future the Board could, subject to its fiduciary duties and applicable law, use the increased number of authorized but unissued shares to frustrate persons seeking to take over or otherwise gain control of our company by, for example, privately placing shares with purchasers who might side with the Board in opposing a hostile takeover bid.&#160;&#160;Shares of common stock could also be issued to a holder that would thereafter have sufficient voting
+power to assure that any proposal to amend or repeal our Bylaws or certain provisions of our Certificate of Incorporation would not receive the requisite vote.&#160;&#160;Such uses of our securities could render more difficult, or discourage, an attempt to acquire control of our company if such transactions were opposed by the Board.&#160;&#160;We are not aware of any party's interest in or efforts to engage in a hostile takeover attempt as of the date of this proxy statement.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Interests of Certain Persons in Matters to be Acted Upon</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Certain of our executive officers and directors presently hold options and warrants which are presently exercisable into shares of our common stock, including:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Mr. Perle is the holder of outstanding options to purchase an aggregate of 12,318,000 shares of our common stock with exercise prices ranging from $0.01 to $0.08 per share,</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Mr. Newman is the holder of outstanding options to purchase an aggregate of 4,250,000 shares of our common stock with exercise prices ranging from $0.08 to $0.18 per share, and</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#8226;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Mr. Zeinfeld is the holder of outstanding options to purchase 500,000 shares of our common stock with an exercise price of $0.09 per share.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial">The Recapitalization Amendment will provide sufficient authorized but unissued shares of our common stock to provide for the exercise of these outstanding options and warrants.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Manner of Effecting the Recapitalization Amendment</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>The increase in the number of authorized shares of our common stock will be effected by the filing of the Recapitalization Amendment with the Secretary of State of the State of Delaware.&#160;&#160;If approved at the special meeting, we anticipate that we will file the Recapitalization Amendment as soon as practicable after the date of the special meeting.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-STYLE: italic; FONT-FAMILY: Arial">THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR"</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-STYLE: italic; FONT-FAMILY: Arial">APPROVAL OF THE RECAPITALIZATION AMENDMENT.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">ATTENDANCE OF OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">8</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>We do not expect that representatives of our independent registered public accounting firm will attend the special meeting.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">OTHER MATTERS</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>As of the date hereof, there are no other matters that we intend to present, or have reason to believe others will present, at the special meeting.&#160;&#160;If, however, other matters properly come before the special meeting, the accompanying proxy authorizes the person named as proxy or his substitute to vote on such matters as he determines appropriate.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">DISSENTER'S RIGHTS</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Under Delaware law there are no dissenter's rights available to our stockholders in connection with the approval of either the Recapitalization Amendment.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">PROPOSALS OF STOCKHOLDERS</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Proposals of stockholders to be included in our proxy statement for next annual meeting of stockholders must be received by the corporate secretary of Spare Backup on or before February 15, 2012.&#160;&#160;The submission of a stockholder proposal does not guarantee that it will be included in our proxy for our 2012 annual meeting.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">ANNUAL REPORT ON FORM 10-K</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>As required, we have filed our 2010 Form 10-K with the SEC. Stockholders may obtain, free of charge, a copy of the 2010 Form 10-K by writing to us at</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">990 Ironwood Drive</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Minden, Nevada 89423</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Telephone: (775) 392-2180</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Attention: Corporate Secretary.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">WHERE YOU CAN FIND MORE INFORMATION</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>This proxy statement refers to certain documents that are not presented herein or delivered herewith.&#160;&#160;Such documents are available to any person, including any beneficial owner of our shares, to whom this proxy statement is delivered upon oral or written request, without charge.&#160;&#160;Requests for such documents should be directed to Corporate Secretary, Spare Backup, Inc.,</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">990 Ironwood Drive</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Minden, Nevada 89423</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Telephone: (775) 392-2180</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>We file annual and special reports and other information with the SEC. Certain of our SEC filings are available over the Internet at the SEC's web site at http://www.sec.gov. You may also read and copy any document we file with the SEC at its public reference facilities:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 72pt"></font>Public Reference Room Office</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial">100 F Street, N.E.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Room 1580</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Washington, D.C. 20549</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">9</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>You may also obtain copies of the documents at prescribed rates by writing to the Public Reference Section of the SEC at 100 F Street, N.E., Room 1580, Washington, D.C. 20549. Callers in the United States can also call 1-202-551-8090 for further information on the operations of the public reference facilities.</font><br>
+</div>
+
+<div>&#160;</div>
+
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"> </font>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-FAMILY: Arial">BY ORDER OF THE BOARD OF DIRECTORS</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><br>
+</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; TEXT-DECORATION: underline">/s/ </font><font style="DISPLAY: inline; FONT-STYLE: italic; FONT-FAMILY: Times New Roman; TEXT-DECORATION: underline">Cery Perle</font></font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Cery Perle, CEO</font></font></div>
+</td>
+</tr><tr>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-FAMILY: Arial">Minden, Nevada</font> </font>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-FAMILY: Arial">November 22, 2011</font></font></div>
+</td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></td>
+</tr><tr>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">10</font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25">&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">SPARE BACKUP, INC.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Special Meeting of Stockholders</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">DECEMBER 16, 2011</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; TEXT-DECORATION: underline">PROXY CARD</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">THE FOLLOWING PROXY IS BEING SOLICITED ON BEHALF</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">OF THE BOARD OF DIRECTORS OF SPARE BACKUP, INC.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>The undersigned stockholder of Spare Backup, Inc. (the "Company") hereby appoints Cery Perle as proxy and attorney of the undersigned, with full rights of substitution, for and in the name(s) of the undersigned, to attend the special meeting of stockholders of the Company to be held at the Company&#8217;s principal offices located at 990 Ironwood Drive, Minden, Nevada 89423, telephone (775) 392-2180,&#160;&#160;on Friday, December 16, 2011 at 9 a.m. local time, and any adjournment thereof, to cast on behalf of the undersigned all the votes that the undersigned is entitled to cast at such meeting and otherwise to represent the undersigned at the special meeting of stockholders
+with all powers possessed by the undersigned if personally present at the meeting including, without limitation, to vote an act in accordance with the instructions set forth below.&#160;&#160;The undersigned hereby acknowledges receipt of the Notice of Special Meeting of Stockholders and revokes any proxy heretofore given with respect to such meeting.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>The votes entitled to be cast by the undersigned will be cast as instructed below.&#160;&#160;If this Proxy Card is executed but no instruction is given, the votes entitled to be cast by the undersigned will be cast "FOR" Proposal 1.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial"><font style="DISPLAY: inline; FONT-FAMILY: Times New Roman; TEXT-DECORATION: underline">PLEASE VOTE, DATE, AND SIGN AND RETURN PROMPTLY IN ENCLOSED ENVELOPE.</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">THE BOARD OF DIRECTORS RECOMMENDS A VOTE "FOR" PROPOSAL 1.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="14%" style="BORDER-TOP: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Proposal 1.</font></div>
+</td>
+<td align="left" valign="top" width="69%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-TOP: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Approve a Certificate of Amendment to the Company's Certificate of Incorporation increasing the number of authorized shares of common stock from 300,000,000 shares to 450,000,000 shares (the "Recapitalization Amendment").</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="top" width="14%" style="BORDER-TOP: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">For</font></div>
+</td>
+<td valign="top" width="14%" style="BORDER-TOP: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman"><font style="DISPLAY: inline;" face="Wingdings">o</font></font></div>
+</td>
+<td valign="top" width="14%" style="BORDER-TOP: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">Against</font></div>
+</td>
+<td valign="top" width="14%" style="BORDER-TOP: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman"><font style="DISPLAY: inline;" face="Wingdings">o</font></font></div>
+</td>
+<td valign="top" width="14%" style="BORDER-TOP: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: arial">Abstain</font></div>
+</td>
+<td valign="top" width="14%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-TOP: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman"><font style="DISPLAY: inline;" face="Wingdings">o</font></font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>In his discretion, the Proxy is authorized to vote upon such other business as may properly come before the meeting.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="58%" style="BORDER-TOP: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">PLEASE MARK HERE IF YOU PLAN TO ATTEND THE SPECIAL MEETING</font></div>
+</td>
+<td valign="top" width="42%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-TOP: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="46%" style="BORDER-TOP: black 1.5pt solid; BORDER-LEFT: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">PLEASE MARK HERE FOR ADDRESS CHANGE AND NOTE NEW ADDRESS AT RIGHT</font></div>
+</td>
+<td valign="top" width="10%" style="BORDER-TOP: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: times new roman"><font style="DISPLAY: inline; FONT-FAMILY: wingdings">o</font></font></div>
+</td>
+<td valign="top" width="28%" style="BORDER-RIGHT: black 1.5pt solid; BORDER-TOP: black 1.5pt solid; BORDER-BOTTOM: black 1.5pt solid"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">Note:&#160;&#160;Please sign exactly as your name appears hereon.&#160;&#160;Joint owners should each sign.&#160;&#160;When signing as attorney, executor, administrator, trustee or guardian, please give full title as such.&#160;&#160;If a corporation, please sign full corporate name by an authorized officer or if a partnership, please sign full partnership name by an authorized person.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="42%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Signature: ________________________________</font></div>
+</td>
+<td align="left" valign="top" width="42%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Date: __________________________________</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="42%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Print name of stockholder:</font></div>
+</td>
+<td valign="top" width="42%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="42%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Print name of signer:</font></div>
+</td>
+<td valign="top" width="42%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="42%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Print title of signer:</font></div>
+</td>
+<td valign="top" width="42%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="42%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Number of common shares:</font></div>
+</td>
+<td valign="top" width="42%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div align="left">
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="42%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Signature: ________________________________</font></div>
+</td>
+<td align="left" valign="top" width="42%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Date: __________________________________</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="42%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Print name of stockholder:</font></div>
+</td>
+<td valign="top" width="42%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="42%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Print name of signer:</font></div>
+</td>
+<td valign="top" width="42%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="42%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Print title of signer:</font></div>
+</td>
+<td valign="top" width="42%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr><tr>
+<td align="left" valign="top" width="42%">
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-FAMILY: arial">Number of common shares:</font></div>
+</td>
+<td valign="top" width="42%"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">&#160; </font></td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Arial">&#160; </font></div>
+
+<div style="WIDTH: 100%; TEXT-ALIGN: center">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">&#160;</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">APPENDIX A</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">CERTIFICATE OF AMENDMENT</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">TO THE CERTIFICATE OF INCORPORATION</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">OF</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Arial">SPARE BACKUP, INC.</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-FAMILY: Arial">(<font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Times New Roman">A Delaware Corporation</font>)</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>Pursuant to Section 242 of the Delaware General Corporations Law, the undersigned, being the Chairman and Chief Executive Officer of Spare Backup, Inc., a corporation organized and existing under the laws of the State of Delaware (the "<font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Times New Roman">Corporation</font>"), does hereby certify that the following resolutions were adopted by the Corporation&#8217;s Board of Directors and its stockholders as hereinafter described:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Times New Roman">RESOLVED</font>: Paragraph FOURTH of the Certificate of Incorporation of this Corporation is hereby amended by deleting the first paragraph and replacing it in its entirety with the following:</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>(a)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;The total number of shares of all classes of capital stock which the Corporation shall have the authority to issue is Four Hundred and Fifty Five Million (455,000,000) shares of which Four Hundred Fifty Million (450,000,000) shares shall be Common Stock, par value $0.001 per share, and Five Million (5,000,000) shares shall be Preferred Stock, par value $0.001 per share.&#160;&#160;The Board of Directors of the Corporation, by resolution or resolutions, at any time and from time to time, to divide and establish any or all of the unissued shares of Preferred Stock not then allocated to any series into one or
+more series and, without limiting the generality of the foregoing, to fix and determine the designation of each such share, the number of shares which shall constitute such series and certain preferences, limitations and relative rights of the shares of each series so established.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>(b)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;This Amendment shall not alter or change the Certificate of Designation, Preferences, Rights and Other Rights of Series A Preferred Stock of the Corporation as filed with the Secretary of State of Delaware on January 16, 2008 or the Certificate of Designation, Preferences, Rights and Other Rights of Series A Preferred Stock of the Corporation as filed with the Secretary of State of Delaware on September 13, 2011.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font>The foregoing resolutions and this Certificate of Amendment were adopted by the Board of Directors of the Corporation pursuant to a written consent of the directors of the Corporation dated September 29, 2011 in accordance with Section 141 of the Delaware General Corporation Law, and by the holders of a majority of the outstanding shares of the Corporation&#8217;s voting stock at a special meeting of stockholders held on December 16, 2011 in accordance with Section 242 of the Delaware General Corporation Law.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-FAMILY: Arial"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font><font style="DISPLAY: inline; FONT-WEIGHT: bold; FONT-FAMILY: Times New Roman">IN WITNESS WHEREOF</font>, the undersigned, being the Chief Executive Officer of this Corporation, has executed this Certificate of Amendment to the Corporation&#8217;s Certificate of Incorporation as of December ___, 2011.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25"><br>
+</div>
+
+<div>&#160;</div>
+
+<div align="center">
+<table bgcolor="white" cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"> </font>
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-FAMILY: Arial">SPARE BACKUP, INC.</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><br>
+</font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-FAMILY: Arial">By:_____________________________&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font></font></div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font style="DISPLAY: inline; FONT-FAMILY: Arial">&#160;&#160;&#160;&#160;&#160;Cery Perle, Chief Executive Officer</font></font></div>
+</td>
+</tr><tr>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></td>
+</tr><tr>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></td>
+<td width="33%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;</font></td>
+</tr></table>
+</div>
+
+<div>&#160;</div>
+
+<div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt; TEXT-ALIGN: left"><br>
+</div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
