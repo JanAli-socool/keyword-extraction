@@ -1,3 +1,6 @@
+pip>=24.0
+setuptools>=70.0
+wheel
 certifi==2025.8.3
 charset-normalizer==3.4.3
 click==8.2.1
@@ -38,3 +41,4 @@ typing_extensions==4.15.0
 tzdata==2025.2
 urllib3==2.5.0
 xlsxwriter==3.2.5
+
