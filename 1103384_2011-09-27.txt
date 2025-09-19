@@ -1,0 +1,2347 @@
+<SEC-DOCUMENT>0001471242-11-000208.txt : 20110927
+<SEC-HEADER>0001471242-11-000208.hdr.sgml : 20110927
+<ACCEPTANCE-DATETIME>20110927171141
+ACCESSION NUMBER:		0001471242-11-000208
+CONFORMED SUBMISSION TYPE:	DEF 14A
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20110927
+FILED AS OF DATE:		20110927
+DATE AS OF CHANGE:		20110927
+EFFECTIVENESS DATE:		20110927
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ALL Fuels & Energy Co
+		CENTRAL INDEX KEY:			0001103384
+		STANDARD INDUSTRIAL CLASSIFICATION:	INDUSTRIAL ORGANIC CHEMICALS [2860]
+		IRS NUMBER:				621581902
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		DEF 14A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-29417
+		FILM NUMBER:		111110284
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6165 N W 86TH ST
+		CITY:			JOHNSTON
+		STATE:			IA
+		ZIP:			50131
+		BUSINESS PHONE:		515-331-6509
+
+	MAIL ADDRESS:	
+		STREET 1:		6165 N W 86TH ST
+		CITY:			JOHNSTON
+		STATE:			IA
+		ZIP:			50131
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	I CRYSTAL INC
+		DATE OF NAME CHANGE:	20000114
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>DEF 14A
+<SEQUENCE>1
+<FILENAME>afsedef14a092711.htm
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 11pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>UNITED STATES SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 13pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SCHEDULE 14A</B></P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Proxy Statement Pursuant to Section 14(a)
+of the</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Securities Exchange Act of 1934</B></P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Filed by the Registrant [X]</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Filed by a Party other than the Registrant [ ]</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Check the appropriate box:</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 49.5pt">[ ] Preliminary Proxy Statement</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 49.5pt">[ ] Confidential, for Use of the Commission Only (as
+permitted by Rule 14a-6(e)(2))</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 49.5pt">[X ] Definitive Proxy Statement</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 49.5pt">[ ] Definitive Additional Materials</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 49.5pt">[ ] Soliciting Material Pursuant to ss. 240.14a-12</P>
+
+<TABLE ALIGN="CENTER" CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR>
+    <TD STYLE="width: 100%; border-bottom: black 1pt solid">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+        <P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>ALL FUELS &amp; ENERGY COMPANY.</B></P></TD></TR>
+<TR>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-autospace: none; text-align: center">(Name of Registrant as Specified in its Charter)</TD></TR>
+<TR>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-autospace: none">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif; text-autospace: none; text-align: center">(Name of Person(s) Filing Proxy Statement, if other than the Registrant)</TD></TR>
+</TABLE>
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Payment of Filing Fee (Check the appropriate box):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 49.5pt">[X] No fee required.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 49.5pt">[ ] Fee computed on table below per Exchange Act Rules
+14a-6(i)(1) and 0-11.</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">(1) Title of each class of securities to which transaction applies:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">(2) Aggregate number of securities to which transaction applies:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">(3) Per unit price or other underlying value of transaction computed
+pursuant to Exchange Act Rule 0-11 (set forth the amount on which the filing fee is calculated and state how it was determined):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">(4) Proposed maximum aggregate value of transaction:</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">(5) Total fee paid: _____________________________________________________________</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 49.5pt">[ ] Fee paid previously with preliminary materials.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 49.5pt">[ ] Check box if any part of the fee is offset as provided
+by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous
+filing by registration statement number, or the Form or Schedule and the date of its filing.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">(1) Amount Previously Paid:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">(2) Form, Schedule or Registration Statement No.:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">(3) Filing Party:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">(4) Date Filed:</P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-bottom: 6pt">&nbsp;</DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt">&nbsp;</DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 2pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>All Fuels &amp; Energy Company</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">6165 N.W. 86<SUP>th</SUP> Street</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Johnston, Iowa 50131</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">(515) 331-6509</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">September 27, 2011</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>To Our Shareholders:</B></P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">You are cordially invited
+to attend the Special Meeting of Shareholders of All Fuels &amp; Energy Company to be held at the offices of 6165 N.W. 86th Street,
+Johnston, Iowa 50131, 5:00 P.M., Central Time, Friday, October 28, 2011.</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Information about the Special
+Meeting, including matters on which shareholders will act, may be found in the notice of special meeting and proxy statement accompanying
+this letter. We look forward to greeting in person as many of our shareholders as possible.</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">It is important that your
+shares be represented and voted at the meeting. Whether or not you plan to attend the Special Meeting, please complete, sign, date,
+and promptly return the accompanying proxy by mail or by fax to (801) 277 3147. Returning the proxy does NOT deprive you of your
+right to attend the Special Meeting. If you decide to attend the Special Meeting and wish to change your proxy vote, you may do
+so automatically by voting in person at the meeting. Please note, however, that if your shares are held of record by a broker,
+bank or other nominee and you wish to attend and vote in person at the meeting, you must obtain from the record holder a proxy
+issued in your name.</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Sincerely yours,</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 9pt d; margin: 0; color: Red"><IMG SRC="image_001.jpg" ALT="">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Dean E. Sukowatey</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">President</P>
+
+<P STYLE="font: 2pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-bottom: 6pt">&nbsp;</DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt">&nbsp;</DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>All Fuels &amp; Energy Company</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">6165 N.W. 86th Street</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Johnston, Iowa 50131</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">(515) 331-6509</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">__________________________________________________________________</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>NOTICE OF SPECIAL MEETING OF SHAREHOLDERS</B></P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">__________________________________________________________________</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The Special Meeting of
+Shareholders of All Fuels &amp; Energy Company will be held at the offices of 6165 N.W. 86th Street, Johnston, Iowa 50131, 5:00
+P.M., Central Time, Friday, October 28, 2011, for the following purposes:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.25in; text-align: justify">&nbsp;</P>
+
+<OL START="1" TYPE="1" STYLE="margin-top: 0in">
+
+<LI STYLE="text-align: justify; margin: 0">to approve the proposal to change the Company&rsquo;s name from All Fuels &amp; Energy
+Company to &ldquo;All Energy Corporation&rsquo;</LI>
+
+</OL>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify">&nbsp;</P>
+
+<OL START="2" TYPE="1" STYLE="margin-top: 0in">
+
+<LI STYLE="text-align: justify; margin: 0"><FONT STYLE="color: windowtext">to approve the proposal to effect a reverse stock split
+of the Company&rsquo;s common stock at a 1-for-50 ratio, which does not adjust the total number of shares authorized</FONT>; and</LI>
+
+</OL>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">&nbsp;</P>
+
+<OL START="3" TYPE="1" STYLE="margin-top: 0in">
+
+<LI STYLE="text-align: justify; margin: 0">to consider and act upon a proposal to approve the All Fuels &amp; Energy company. 2011
+Stock Incentive Plan.</LI>
+
+</OL>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">These business items are
+described more fully in the Proxy Statement accompanying this Notice.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="color: black">Only
+shareholders who owned our common stock at the close of business on September 26, 2011, can vote at this meeting or any adjournments
+that may take place. All shareholders are cordially invited to attend the meeting in person. However, to assure your representation
+at the meeting, you are urged to mark, sign and return the enclosed proxy as promptly as possible by mail to the address provided
+herein or by fax at </FONT>(419) 730-6068<FONT STYLE="color: black">. Your stock will be voted in accordance with the instructions
+you have given. Any shareholder attending the meeting may vote in person even if he or she has previously returned a proxy. Please
+note, however, that if your shares are held of record by a broker, bank or other nominee and you wish to attend and vote in person
+at the meeting, you must obtain from the record holder a proxy issued in your name.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">By Order of the Board of Directors,</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 9pt d; margin: 0; color: Red"><IMG SRC="image_002.jpg" ALT=""></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">Dean E. Sukowatey</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">President</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">Dated: September 27, 2011</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Important Notice Regarding the Availability of Proxy Materials
+for the Special Meeting of Stockholders to be held on October 28, 2011: This Proxy Statement is available at: www.allenergyco.com.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-bottom: 6pt">&nbsp;</DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt">&nbsp;</DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="color: black">PLEASE DATE AND
+SIGN THE ENCLOSED PROXY AND RETURN IT AT YOUR EARLIEST CONVENIENCE BY MAIL OR BY FAX AT </FONT>(419) 730-6068 <FONT STYLE="color: black">SO
+THAT YOUR SHARES WILL BE VOTED IF YOU ARE NOT ABLE TO ATTEND THE SPECIAL MEETING.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>ALL FUELS &amp; ENERGY COMPANY</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>PROXY STATEMENT</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SPECIAL MEETING OF SHAREHOLDERS</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>TO BE HELD ON OCTOBER 28, 2011</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>INFORMATION CONCERNING SOLICITATION AND VOTING</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>General</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The enclosed proxy is solicited
+on behalf of the Company&rsquo;s board of directors (&ldquo;Board of Directors&rdquo;) for use at the Special Meeting of Shareholders
+to be held on October 28, 2011 at 5:00 P.M., Central Time (the &ldquo;Special Meeting&rdquo;), or at any adjournment or postponement
+of this meeting, for the purposes set forth in this Proxy Statement and in the accompanying Notice of Special Meeting of shareholders.
+The Special Meeting will be held at the offices of 6165 N.W. 86th Street, Johnston, Iowa 50131. We intend to mail this Proxy Statement
+and accompanying proxy card to shareholders on or about September 28, 2011. The Board of Directors of All Fuels &amp; Energy Company,
+a Delaware corporation, prepared this Proxy Statement for the purpose of soliciting proxies for our Special Meeting of Shareholders.
+When you see the term &ldquo;we,&rdquo; &ldquo;our,&rdquo; the &ldquo;Company,&rdquo; it refers to All Fuels &amp; Energy Company
+and its subsidiaries.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Revocability of Proxies</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Any proxy given pursuant
+to this solicitation may be revoked by the person giving it at any time before its use by delivering to the Company&rsquo;s president,
+at the address of the Company&rsquo;s executive offices noted above, written notice of revocation or a duly executed proxy bearing
+a later date or by attending the Special Meeting and voting in person. Attendance at the Special Meeting will not, by itself, revoke
+a proxy. Please note, however, that if your shares are held of record by a broker, bank or other nominee and you wish to attend
+and vote in person at the Special Meeting, you must obtain from the record holder a proxy issued in your name.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Quorum; Abstentions and Broker Non-Votes</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Our common stock is the
+only type of security entitled to vote at the Special Meeting. Only shareholders of record at the close of <FONT STYLE="color: black">business</FONT>
+on September 26, 2011 (the &ldquo;Record Date&rdquo;) will be entitled to notice of and to vote at the Special Meeting. At the
+close of business on the Record Date, there were 89,894,654 shares of common stock outstanding and entitled to vote. Each holder
+of record of shares of common stock on that date will be entitled to one vote for each share held on all matters to be voted upon
+at the Special Meeting. Shares of common stock may not be voted cumulatively<FONT STYLE="color: black">.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="color: black">Proxies
+properly executed, duly returned to the Company and not revoked will be voted in accordance with the specifications made. Where
+no specifications are given, such proxies will be voted &ldquo;FOR&rdquo; the approval of the proposal to change the name to &ldquo;All
+Energy Corporation&rdquo;, &ldquo;FOR&rdquo; the proposal to effect a reverse split of the Company&rsquo;s common stock at a ratio
+of 1 to 50,</FONT> <FONT STYLE="color: black">and &ldquo;FOR&rdquo; the proposal to approve the 2011 Stock Incentive Plan. It is
+not expected that any matters other than those referred to in this Proxy Statement will be brought before the Special Meeting.
+If, however, any matter not described in this Proxy Statement is properly presented for action at the Special Meeting, the persons
+named as proxies in the enclosed form of proxy will have discretionary authority to vote according to their own discretion.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The required quorum for
+the transaction of business at the Special Meeting is a majority of the issued and outstanding shares of the Company&rsquo;s <FONT STYLE="color: black">common</FONT>
+stock entitled to vote at the Special Meeting, whether present in person or represented by proxy. Shares of common stock represented
+by a properly signed and returned proxy will be treated as present at the Special Meeting for purposes of determining a quorum,
+regardless of whether the proxy is marked as casting a vote or abstaining. Shares of stock represented by &ldquo;broker non-votes&rdquo;
+(i.e., shares of stock held in record name by brokers or nominees) as to which (i) instructions have not been received from the
+beneficial owners or persons entitled to vote; (ii) the broker or nominee does not have discretionary voting power under applicable
+rules or the instrument under which it serves in such capacity; or (iii) the record holder has indicated on the proxy card or has
+executed a proxy and otherwise notified the Company that it does not have authority to vote such shares on that matter, will be
+treated as present for purposes of determining a quorum<FONT STYLE="color: black">.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Voting</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="color: black"><I>Proposal
+1</I>. Approval of the proposal to change the Company&rsquo;s name requires the affirmative votes of holders of </FONT>a majority
+of the shares of common stock issued and outstanding<FONT STYLE="color: black">. Abstentions and broker non-votes will not be counted
+as having been voted on the proposal and will have the effect of voting against the proposal.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.55in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="color: black"><I>Proposal
+2</I>. Approval of the proposal to effect a reverse split of the Company&rsquo;s common stock at a ratio of 1-for-50 requires the
+affirmative votes of holders of </FONT>a majority of the shares of common stock issued and outstanding<FONT STYLE="color: black">.
+Abstentions and broker non-votes will not be counted as having been voted on the proposal and will have the effect of voting against
+the proposal.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.55in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="color: black"><I>Proposal
+3</I>. The approval of the 2011 Stock Incentive Plan requires affirmative votes of holders of </FONT>a majority of the shares of
+common stock <FONT STYLE="color: black">issued</FONT> and outstanding<FONT STYLE="color: black">. Abstentions and broker non-votes
+will not be counted as having been voted on the proposal and will have the effect of voting against the proposal.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.55in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Solicitation</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The cost of soliciting
+proxies will be borne by the Company. In addition to soliciting shareholders by mail and through its regular employees, the Company
+will request that banks and brokers and other persons representing beneficial owners of the shares forward the proxy solicitation
+material to such beneficial owners and the Company may reimburse these parties for their reasonable out-of-pocket costs. The Company
+may use the services of its officers, directors and others to solicit proxies, personally or by telephone, facsimile or electronic
+mail, without additional compensation.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Dissenter&rsquo;s Rights</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Neither Delaware law nor
+our articles of incorporation or bylaws provide our shareholders with dissenters&rsquo; rights in connection with any of the matters
+contained in this proxy statement.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.55in">.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Shareholder Proposals</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">In order for shareholder
+proposals intended to be presented at the next meeting of shareholders to be eligible for inclusion in the corporation's proxy
+statement and the form of proxy for such meeting, they must be received by the Corporation at its principal executive offices a
+reasonable time before the Company prints its proxy materials for the meeting. In addition, if <FONT STYLE="color: black">the</FONT>
+Corporation does not receive notice of a shareholder proposal within a reasonable time before the Corporation mails its proxy materials
+to the shareholders, then the proxies solicited by the Board of Directors may confer on the proxy committee discretionary authority
+to vote on the shareholder proposal. The Board of Directors has not determined when there will be another meeting of the shareholders.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="color: black"><B>PROPOSAL NUMBER
+1 &ndash; </FONT>APPROVAL TO CHANGE CORPORATE NAME TO &ldquo;ALL ENERGY CORPORATION&rdquo;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The Board of Directors
+has approved <FONT STYLE="color: black">and</FONT> recommends to the shareholders a proposal to change the Company&rsquo;s corporate
+name (the &ldquo;Name Change&rdquo;).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Our current Amended and
+Restated Articles of Incorporation states that the name of the Company is &ldquo;All Fuels &amp; Energy Company.&rdquo; Under the
+<FONT STYLE="color: black">proposed</FONT> amendment, in order to effect the corporate name change, our Amended and Restated Articles
+of Incorporation would be amended to change our corporate name to &ldquo;All Energy Corp.&rdquo;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><I>General</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The Company would effect
+the Name change by filing with the Delaware Secretary of State an amendment to the Company&rsquo;s <FONT STYLE="color: black">Articles</FONT>
+of Incorporation, as amended, which would occur only if a majority of the voting power vote in favor of the Name change,</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><I>Reasons for the Corporate Name Change</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The principal purpose for
+changing our corporate name is to convey more clearly a sense of our new business direction, which is to re-focus our business
+from the acquisition of an ethanol plant to the exploration, development, acquisition, and <FONT STYLE="color: black">production</FONT>
+of crude oil and natural gas within the United States.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><I>Effect of Vote for the Name Change</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">A vote in favor of the
+Name Change proposal is a vote to approve the amendment to the Articles of Incorporation <FONT STYLE="color: black">affecting</FONT>
+the Name Change. In addition, we have agreed to assigning our President, Mr. Dean Sukowatey the name &ldquo;All Fuel &amp; Energy
+Company, upon the effectiveness of the Company changing its name to All Energy Corporation.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><I>Effective Time</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">If the Name change proposal
+is approved, the Name Change will become effective upon the filing of the amendment to the Articles of Incorporation with the Secretary
+of State of Delaware</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><I>&nbsp;</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><I>Effect of Not Obtaining the Required Vote
+for Approval</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><I>&nbsp;</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">If the Name <FONT STYLE="color: black">Change</FONT>
+proposal fails to obtain the requisite vote for approval, the Name Change will not be consummated and the Company will continue
+to operate as All Fuels &amp; Energy Company, which may negatively effect the Company&rsquo;s ability to refocus the Company business
+to the exploration, development, acquisition and production of crude oil and natural gas within the United States.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><I>&nbsp;</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><I>Vote Required</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Approving the Name change
+requires the vote of holders of a majority of the shares of common stock. Abstentions and broker non-votes will not be counted
+as having been voted on the proposal and will have the effect of voting against the proposal.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>THE BOARD OF DIRECTORS RECOMMENDS THAT THE
+SHAREHOLDERS VOTE &ldquo;FOR&rdquo; THE APPROVAL OF THE NAME CHANGE TO &ldquo;ALL ENERGY CORPORATION.&rdquo;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><FONT STYLE="color: black"><B>PROPOSAL NUMBER
+2 &ndash; </FONT>APPROVAL TO EFFECT A REVERSE SPLIT OF THE COMPANY&rsquo;S COMMON STOCK AT A RATIO 1 FOR 50</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><I>General</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Our Board of Directors
+has recommended that the Company implement a reverse splits of the Company&rsquo;s common stock at a <FONT STYLE="color: black">ratio</FONT>
+1-for-50 (the &ldquo;Reverse Split&rdquo;). The Reverse Split will be effective upon filing an amendment to the Company&rsquo;s
+articles of Incorporation with the Secretary of State of the State of Delaware, which will only occur upon approval of an affirmative
+vote of the shareholders of the Company.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Neither the <FONT STYLE="color: black">number</FONT>
+of authorized shares of the Company nor the par value of the shares of our common stock will be changed in connection with the
+reverse split. The Board considered reducing the number of authorized shares of common stock, but determined that the availability
+of additional shares was necessary in order for the Company to consummate future financing transactions or business combinations
+including the (i) the convertible notes with an aggregate purchase price of $210,000 issued on or about September 26, 2011, which
+is convertible upon the effectiveness of this Reverse Split into 6,086,957 (post-split) shares of the Company&rsquo;s common stock
+(the &ldquo;Financing&rsquo;); the Series A Warrants and Series B Warrants issued in connection with the Financing that are only
+exercisable upon the effectiveness of the Reverse Split into 2,000,000 (post-split) shares each, and (iii) 14,697,701 (post split)
+shares issuable pursuant to the Debt Conversion Agreement, entered into on or around September 26, 2011, in which Dean Sukowatey
+agreed to convert notes payable into shares of the Company&rsquo;s common stock subject to the effectiveness of the Reverse Split.
+The availability of additional shares will also permit the Board to issue shares, or instruments convertible into or exercisable
+for such shares, for corporate purposes.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Assuming the approval of
+the Reverse Split, Dean Sukowatey will acquire an additional 55% of the Company&rsquo;s outstandin<FONT STYLE="color: black">g</FONT>
+stock, assuming no new issuances other than the conversion of the notes and exercise of warrants issued in connection with the
+Financing.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The Reverse Split will
+be realized simultaneously and in the same ratio for all shares of the Common Stock. All holders of Common Stock will be affected
+uniformly by the Reverse Split, which will have no effect on the proportionate <FONT STYLE="color: black">holdings</FONT> of any
+of our shareholders, except for possible changes due to the treatment of fractional shares resulting from the Reverse Split. In
+lieu of issuing fractional shares, the Company will round up in the event a shareholder would be entitled to receive less than
+one share of Common Stock. In addition, the Reverse Split will not affect any holder of our Common Stock&rsquo;s proportionate
+voting power (subject to the treatment of fractional shares), and all shares of Common Stock will remain fully paid and non-assessable.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><I>Reasons for the Reverse Split</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The Company does not currently
+have any plans or arrangements to acquire any new specific business or company or to issue the additional shares of Company Common
+Stock authorized, other than in connection with the Financing and the Debt <FONT STYLE="color: black">Conversion</FONT> Agreement.
+The primary purpose for effecting a Reverse Split is to facilitate investment in the Company and to create more credibility for
+the Company by having fewer shares with a potentially higher trading share price. The Company also believes that effecting the
+Reverse Split will provide better flexibility in acquiring operating businesses and raising additional capital in the future. Among
+other things, the Reverse Split will make available shares for future activities that are consistent with our growth strategy,
+including, without limitation, completing financings, establishing strategic relationships, and acquiring or investing in complementary
+businesses or products.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Our Board of Directors
+considered, among other things, that a sustained higher per share price of our Common Stock, which should result from the Reverse
+Split, might heighten the interest of the financial community in the Company and potentially broaden the pool of investors that
+may consider investing in the Company. Our Board of Directors has determined <FONT STYLE="color: black">that</FONT> investors who
+would otherwise be potential investors in our Common Stock would prefer to invest in shares that trade in a price range higher
+than the range in which our Common Stock currently trades. On September 1, 2011, the last bid price of our Common Stock on the
+Pink Sheets was $0.0015 per share. In theory, implementing the Reverse Split should cause the trading price of a share of our Common
+Stock after the Reverse Split to be increased. This, however, will not necessarily be the case.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">In addition, our Board
+of Directors considered that as a matter of policy, many institutional investors are prohibited from purchasing stocks below certain
+minimum price levels. For the same reason, brokers may be reluctant to recommend lower-priced stocks to their clients, or may discourage
+their clients from purchasing such stocks. Other investors may be dissuaded from purchasing lower-priced stocks because the commissions,
+as a percentage of the total transaction, tend to be higher for such stocks. Our Board of Directors believes that, to the extent
+that the price per share of our Common Stock remains at a higher per share price as a result of the Reverse Split, some of these
+concerns may be ameliorated. The combination of lower transaction costs and increased interest from investors could also have the
+effect of increasing the liquidity of our Common Stock.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The Board does not intend
+for any of these transactions to be the first step in a series of plans or proposals of a &ldquo;going private transaction&rdquo;
+within the meaning of Rule 13e-3 of the Securities Exchange Act of 1934, as amended.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><I>Principal Effects of the Reverse Split</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The Reverse Split will
+affect all holders of our Common Stock uniformly and will not change the proportionate equity interests of such shareholders, nor
+will the respective voting rights and other rights of holders of our Common Stock be altered, except for possible changes due to
+the treatment of fractional shares resulting from the Reverse Split, as described below. The par value of the Company&rsquo;s Common
+Stock will not change as a result of the Reverse Split. The following table sets forth the approximate percentage reduction in
+the outstanding shares of Common Stock and the approximate number of shares of Common Stock that would be outstanding as a result
+of the Reverse Split.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE ALIGN="CENTER" CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 37%; border: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; font-weight: bold; text-align: center">&nbsp;</TD>
+    <TD STYLE="width: 15%; border: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; font-weight: bold; text-align: center">Percentage Reduction in Shares Outstanding</TD>
+    <TD STYLE="width: 16%; border: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; font-weight: bold; text-align: center"># Shares Authorized</TD>
+    <TD STYLE="width: 17%; border: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; font-weight: bold; text-align: center"># Shares Issued and Outstanding</TD>
+    <TD STYLE="width: 15%; border: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; font-weight: bold; text-align: center"># Shares Authorized and Unreserved and Unissued</TD></TR>
+<TR>
+    <TD STYLE="border: windowtext 1pt solid; vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">Current</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; vertical-align: top; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">-</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; vertical-align: top; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">700,000,000</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; vertical-align: bottom; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">89,894,654</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; vertical-align: bottom; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">610,105,346</TD></TR>
+<TR>
+    <TD STYLE="border: windowtext 1pt solid; vertical-align: top; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">Reverse Split at a ratio of 1-for-50</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; vertical-align: top; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">98%</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; vertical-align: top; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">700,000,000</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; vertical-align: bottom; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">1,797,893</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; vertical-align: bottom; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">698,202,107</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 63pt 0 67.5pt; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Shareholders should also
+recognize that once the Reverse Split is effected, they will own a fewer number of shares than they currently own (a number equal
+to the number of shares owned immediately prior to the Reverse Split divided by fifty). <FONT STYLE="color: black">While</FONT>
+we expect that the Reverse Split will result in an increase in the per share price of our Common Stock, the Reverse Split may not
+increase the per share price of our Common Stock in proportion to the reduction in the number of shares of our Common Stock outstanding.
+It also may not result in a permanent increase in the per share price, which depends on many factors, including our performance,
+prospects and other factors that may be unrelated to the number of shares outstanding. The history of similar reverse splits for
+companies in similar circumstances is varied.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Once the Reverse Split
+is effected and should the per share price of our Common Stock decline, the percentage decline as an absolute number and as a percentage
+of our overall market capitalization may be greater than would occur in the <FONT STYLE="color: black">absence</FONT> of the Reverse
+Split. Furthermore, the liquidity of our Common Stock could be adversely affected by the reduced number of shares that would be
+outstanding after the Reverse Split.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">In addition, the Reverse
+Split will likely increase the number of shareholders who own &ldquo;odd lots&rdquo; (stockholdings in amounts of less than 100
+shares). Shareholders who hold odd lots typically will experience an increase in the cost of selling their shares, as well as possible
+greater difficulty in effecting such sales. Any reduction in brokerage commissions resulting from a reverse split may be offset,
+in whole or in part, by increased brokerage commissions required to be paid by shareholders selling odd lots created by any reverse
+split.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Finally, the number of
+authorized but unissued and unreserved shares of our Common Stock relative to the number of issued and reserved shares of our Common
+Stock will be increased. This increased number of authorized but unissued and unreserved shares of our Common Stock could be issued
+by the Board without further shareholder approval, which could result in dilution to the holders of our Common Stock.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The increased proportion
+of unissued and unreserved authorized shares to issued shares could also, under certain circumstances, have an anti-takeover effect.
+For example, the issuance of a large block of Common Stock could dilute the ownership of a person seeking to effect a change in
+the composition of our Board of Directors or contemplating a tender offer or other transaction. However, the Reverse Split has
+not been authorized in response to any effort of which the <FONT STYLE="color: black">Company</FONT> is aware to accumulate shares
+of Common Stock or obtain control of the Company. The Company&rsquo;s articles of incorporation do not currently contain provisions
+having an anti-takeover effect. Other than the Reverse Split, the Board of Directors does not currently contemplate recommending
+the adoption of any other amendments to our articles of incorporation that could be construed to reduce or interfere with the ability
+of third parties to take over or change the control of our Company.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><I>Exchange Act Matters</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Our Common Stock is currently
+registered under the Exchange Act, and we are subject to the periodic reporting and other requirements of the Exchange Act. Any
+reverse split, if implemented, will not affect the registration of our Common Stock under the <FONT STYLE="color: black">Exchange</FONT>
+Act or our reporting or other requirements thereunder. Our Common Stock is currently quoted, and following the Reverse Split will
+continue to be quoted, on the Pink Sheets. However, our Common Stock will be traded under a new symbol, which we will request once
+the Reverse Split is complete. Note, however, that the CUSIP number for our Common Stock will also change in connection with the
+Reverse Split and will be reflected on new certificates issued by the Company and in electronic entry systems.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><I>Accounting Matters</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The Reverse Split will
+not affect total shareholders&rsquo; equity on our balance sheet. As a result of the Reverse Split, the stated capital component
+attributable to our Common Stock will be reduced to an amount equal one-twentieth of its present amount and the <FONT STYLE="color: black">additional</FONT>
+paid-in capital component will be increased by the amount by which the stated capital component is reduced. The per share net loss
+and net book value per share of our Common Stock will be increased as a result of the Reverse Split because there will be fewer
+shares of our Common Stock outstanding.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><I>Tax Consequences</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Each shareholder is urged
+<FONT STYLE="color: black">to</FONT> consult with such stockholder&rsquo;s tax advisor with respect to any potential tax consequences
+of the reverse Split.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><I>Procedure for Effecting the Reverse Split</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The Reverse Split will
+become effective as of the date of filing the amendment to the Articles of Incorporation with the State of Delaware, with such
+date being referred to as the &ldquo;effective time.&rdquo; At the effective time, each lot of fifty shares of Common Stock issued
+and outstanding immediately prior to the effective time will, automatically and without any further action on the part of our shareholders,
+be combined into and become one share of Common Stock, subject to the treatment for fractional shares described above, and each
+certificate which, immediately prior to the effective time represented pre-split shares, will be deemed cancelled and, for all
+corporate purposes, will be deemed to evidence ownership of post-split shares. However, a shareholder will not be entitled to receive
+any dividends or distributions payable after the reincorporation documents are effective until that shareholder surrenders and
+exchanges his or her certificates.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The Company&rsquo;s transfer
+agent will act as exchange agent for purposes of implementing the exchange of stock certificates. As soon as practicable after
+the effective time, a letter of transmittal will be sent to our shareholders of record as of the effective time for purposes of
+surrendering to the transfer agent certificates representing pre-split shares in exchange for <FONT STYLE="color: black">certificates</FONT>
+representing post-split shares in accordance with the procedures set forth in the letter of transmittal. No new certificates will
+be issued to a shareholder until such shareholder has surrendered such shareholder&rsquo;s outstanding certificate(s), together
+with the properly completed and executed letter of transmittal, to the transfer agent. Direct registration accounts and any new
+stock certificates that are issued after the Reverse Split becomes effective will give effect to the Reverse Split. SHAREHOLDERS
+SHOULD NOT DESTROY ANY STOCK CERTIFICATE(S) AND SHOULD NOT SUBMIT ANY CERTIFICATE(S) UNTIL REQUESTED TO DO SO.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Currently our Common Stock
+is quoted on the Pink Sheets under the symbol &ldquo;AFSE.&rdquo; In connection with the Reverse Split, our <FONT STYLE="color: black">Common</FONT>
+Stock will change its current CUSIP number. This new CUSIP number will appear on any new certificates representing post-split shares
+of our Common Stock.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The Board of Directors
+has approved and recommends to the shareholders a proposal to approve the Reverse Split.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><I>Vote Required</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Approving the proposal
+to effect a reverse split at a ratio 10 for 50 requires the vote of holders of a majority of the shares of common stock present
+in person or by proxy and entitled to vote at the Special Meeting. Abstentions and broker non-votes will not be counted as having
+been voted on the proposal and will have the effect of voting against the proposal.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><I>Effect of Not Obtaining the Required Vote
+for Approval</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><I>&nbsp;</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">If the Reverse Split is
+not approved, the Company&rsquo;s availability to raise additional funds may be limited, including in connection with Financing
+and the Debt Conversion Agreement.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><FONT STYLE="color: black"><B>THE BOARD OF
+DIRECTORS RECOMMENDS THAT THE SHAREHOLDERS VOTE &ldquo;FOR&rdquo; THE PROPOSAL TO EFFECT A </FONT>REVERSE SPLIT OF THE COMPANY&rsquo;S
+COMMON STOCK AT A RATIO OF 1 FOR 50.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center; text-indent: 0.55in"><B>PROPOSAL NUMBER 3 &ndash;
+TO APPROVE THE 2011 STOCK INCENTIVE PLAN</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Proposal</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">On August 12, 2011, the
+Board of Directors approved the adoption of the All Fuels &amp; Energy Company 2011 Stock Incentive Plan (the &ldquo;2011 Plan&rdquo;)
+subject to approval by the stockholders of the Company. The principal features of the 2011 Plan are described below; provided,
+however, that the following summary is qualified in its entirety by reference to the text of the 2011 Plan, which is attached to
+this Proxy Statement as Exhibit A.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B><I>&nbsp;</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Reason for the Proposal</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">We intend to use a combination
+of restricted stock, stock options and other stock-based compensation to reward long-term <FONT STYLE="color: black">performance</FONT>,
+encourage the achievement of superior results over time, align executive and stockholder interests, and retain executive management.
+The Board of Directors believes that by providing employees, consultants, and directors with an opportunity to acquire a proprietary
+interest in the Company and additional incentive and reward opportunities based on the growth of the Company, the 2011 Plan will
+give such individuals a stronger incentive to work for the continued success of the Company. The Board also believes that the 2011
+Plan is critical for the Company in attracting and retaining outside personnel, without which we will not be competitive in the
+employment environment today.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>General</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The 2011 Plan pro<FONT STYLE="color: black">v</FONT>ides
+for the granting of options (either incentive stock options within the meaning of Section 422(b) of the Internal Revenue Code of
+1986, as amended (the &ldquo;Code&rdquo;), or options that do not constitute incentive stock options (&ldquo;nonqualified stock
+options&rdquo;)), restricted stock awards, performance awards, incentive awards, and bonus stock awards (see &ldquo;Types of Awards&rdquo;
+below).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Eligibility</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Our directors and all employees
+and consultants of the Company and its affiliates are eligible to participate in the 2011 Plan and to receive awards under the
+plan. However, incentive stock options may be granted only to individuals who are <FONT STYLE="color: black">employees</FONT> of
+the Company and its subsidiary corporations at the time of the grant. The selection of those employees, consultants and directors,
+from among those eligible, who will receive awards is within the discretion of the administrator of the 2011 Plan.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Shares of Common Stock Available for Incentive
+Awards</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The 2011 Plan <FONT STYLE="color: black">covers</FONT>
+an aggregate of 2,000,000 (post-Reverse Split) shares of Common Stock (subject to certain adjustments in the event of a reorganization,
+stock split, recapitalization, other change in our capital structure and certain other events (&ldquo;adjustments&rdquo;)). No
+more than 1,000,000 shares of Common Stock, subject to adjustments, may be issued pursuant to awards granted under the 2011 Plan
+to any one individual in any calendar year. The maximum aggregate cash payout with respect to performance awards granted to any
+one individual during a calendar year is $5,000,000.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B><I>&nbsp;</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Administration</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The 2011 Plan is administered
+by the Compensation Committee<FONT STYLE="color: black"> or if there is no Compensation Committee by the entire board of directors</FONT>.
+The Compensation Committee has the power to determine those employees, consultants and/or outside directors who will receive an
+award, the time or times when such award will be made, the type of the award and the number of shares of Common Stock to be issued
+under the award or the value of the award.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The Compensation Committee
+may from time to time, in its sole discretion, delegate to the Company&rsquo;s chief executive officer the administration of the
+2011 Plan, including the right to grant awards, insofar as such administration and power to grant awards relates to any person
+who is not subject to Section 16 of the Exchange Act. Such delegation may be effective only so long as the chief executive officer
+is a member of our Board of Directors, and the Compensation Committee may revoke the delegation at any time. The Compensation Committee,
+in its sole discretion, may place any conditions and restrictions on the powers delegated to the chief executive officer. In the
+event of a conflict in a determination or interpretation under the 2011 Plan as between the Compensation Committee and our chief
+executive officer, the determination or interpretation of the Compensation Committee will be conclusive.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B><I>&nbsp;</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Types of Awards</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B><I>&nbsp;</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>Stock Options</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The 2011 Plan provides
+for two types of options: incentive stock options and nonqualified stock options. The Committee will designate the terms and conditions
+of each option granted under the 2011 Plan. The exercise price with respect to each stock option is determined by the Committee;
+provided, however, that, subject to certain adjustments, the exercise <FONT STYLE="color: black">price</FONT> per share will not
+be less than fair market value per share of Common Stock on the date the stock option is granted. The term of each stock option
+will be fixed by the Committee, such term being limited to ten years from the date of grant. Notwithstanding the above, if an incentive
+stock option is granted to an employee who then owns, directly or by attribution under the Code, stock possessing more than 10%
+of the total combined voting power of all classes of stock of the Company or a subsidiary, then the term of the option will not
+exceed five years from the date of grant, and the exercise price will be at least 110% of the fair market value of the shares on
+the date that the option is granted. The Committee will determine the time at which the stock option may be exercised, which may
+be based on a required period of continuous employment or other service with the Company and/or achievement of performance objectives.
+To the extent the aggregate fair market value (determined as of the date of grant) of shares with respect to which incentive stock
+options become exercisable for the first time by an employee exceeds $100,000 in any calendar year, the options with respect to
+the excess shares will be nonqualified stock options. The Committee may impose restrictions on share transferability on any grant
+of stock options or on any shares acquired pursuant to the exercise of a stock option as it may deem advisable. The exercise price
+of options granted under the 2011 Plan will be paid in full in a manner prescribed by the Committee.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>Restricted Stock</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Pursuant to a restricted
+stock award, shares of Common Stock will be issued or delivered to the grantee at the time the award is made without any cash payment
+to the Company, except to the extent otherwise provided by the Committee; provided, however, that such shares will be subject to
+certain restrictions on the disposition thereof and certain obligations to <FONT STYLE="color: black">forfeit</FONT> such shares
+to the Company as may be determined in the discretion of the Committee. The Committee may provide that the restrictions on disposition
+and the obligations to forfeit the shares will lapse based on the following: (a) the attainment of one or more performance measures
+established by the Committee; (b) the participant&rsquo;s continued employment or continued service as a consultant or director
+with the Company and its affiliates for a specified period; (c) the occurrence of any event or the satisfaction of any other condition
+specified by the Committee in its sole discretion; or (d) a combination of any of these factors. The performance measures may be
+made subject to adjustment for specified significant extraordinary items or events, and may be absolute, relative to one or more
+other companies, or relative to one or more indices, and may be contingent upon future performance of the Company or any affiliate,
+division or department thereof.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">If the forfeiture restrictions
+applicable to a restricted stock award are based on the participant&rsquo;s continued employment or service, then, unless such
+award is issued in lieu of all or a portion of the cash compensation payable to the participant <FONT STYLE="color: black">under</FONT>
+any compensation program, the forfeiture restrictions shall not lapse in full prior to three years from the date of grant, except
+in the event of a Change in Control (as defined in the 2011 Plan) or at the discretion of the Committee in the event of the participant&rsquo;s
+retirement, disability, death or other termination of employment. Each restricted stock award constitutes an immediate transfer
+of the record and beneficial ownership of the shares of restricted stock to the participant in consideration of the performance
+of services as an employee, consultant or director, entitling the grantee to all voting and other ownership rights in such shares.
+The Company retains custody of the shares of Common Stock issued pursuant to a restricted stock award until the disposition and
+forfeiture obligations lapse. Participants are entitled to receive dividends paid on a share of Common Stock subject to the restricted
+stock award.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>Performance Awards</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The Committee is authorized
+to grant performance awards to selected participants, which may be paid in cash, Common Stock or a combination of the two, at the
+discretion of the Committee. At the time of grant, the Committee will establish the maximum number of shares of Common Stock subject
+to, or the maximum value of, each performance award and the performance period over which the performance applicable to the award
+will be measured. The receipt of cash or shares of Common Stock pursuant to a performance award will be contingent upon satisfaction
+by the Company, or any affiliate, division or department thereof, of performance targets established by the Committee at or near
+the beginning of the performance period. The performance targets may be made subject to adjustment for specified significant extraordinary
+items or events and may be absolute, relative to one or more other companies, or relative to one or more indices. The Committee
+may establish performance targets applicable to performance awards based upon (1) the price of a share of Common Stock, (2) the
+Company&rsquo;s earnings per share, (3) the Company&rsquo;s <FONT STYLE="color: black">market</FONT> share, (4) the market share
+of a business unit of the Company designated by the Committee, (5) the Company&rsquo;s sales, (6) the sales of a business unit
+of the Company designated by the Committee, (7) the net income (before or after taxes) of the Company or any business unit of the
+Company designated by the Committee, (8) the cash flow or return on investment of the Company or any business unit of the Company
+designated by the Committee, (9) the earnings before or after interest, taxes, depreciation, and/or amortization of the Company
+or any business unit of the Company designated by the Committee, (10) the economic value added, (11) the return on capital, assets,
+or stockholders&rsquo; equity achieved by the Company, (12) the total stockholders&rsquo; return achieved by the Company, or (13)
+a combination of any of the foregoing. Dividend equivalents paid on a share of Common Stock subject to the performance award will
+not be paid prior to the achievement of the performance measures. All other terms of the award will be established by the Committee.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>Incentive Awards</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Incentive awards are rights
+to receive shares of Common Stock (or the fair market value thereof), or rights to receive an amount equal to any appreciation
+or increase in the fair market value of Common Stock over a specified period of time. Such awards vest over a period of time established
+by the Committee, without satisfaction of any performance criteria or objectives; provided, however, that, unless the award is
+issued in lieu of all or a portion of the cash compensation payable to the participant under any compensation program, the incentive
+award shall not be 100% vested prior to three years from the date of grant, except in the event of a Change in Control or at the
+discretion of the Committee in the event of the participant&rsquo;s retirement, disability, death or other termination of employment.
+Payment of an incentive award may be made in cash, Common Stock, or a combination thereof as determined by the Committee.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B><I>&nbsp;</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>Bonus Stock Awards</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The Committee is authorized
+to grant a bonus stock award to a participant in the 2011 Plan. A bonus stock award is a transfer of <FONT STYLE="color: black">unrestricted</FONT>
+shares of Common Stock that need not be subject to performance criteria or objectives or to forfeiture. The purchase price, if
+any, for shares issued in connection with a bonus stock award will be determined by the Committee in its sole discretion.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B><I>&nbsp;</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>Change in Control</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The 2011 Plan provides
+that, upon a Change in Control (as such term is defined in the 2011 Plan), all outstanding awards <FONT STYLE="color: black">granted</FONT>
+become fully vested, any restrictions with respect to such awards lapse and any performance goals with respect to such awards are
+deemed to have been met in full.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B><I>&nbsp;</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>Amendment</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Without stockholder or
+participant approval, the Board of Directors may amend, alter, or terminate the 2011 Plan, except that any amendment or alteration
+to the 2011 Plan may not impair the rights of a participant with respect to an award <FONT STYLE="color: black">previously</FONT>
+granted without the consent of the participant and any amendment or alteration shall be subject to the approval of the Company&rsquo;s
+stockholders not later than the next annual meeting if the amendment would increase the maximum aggregate number of shares that
+may be issued under the 2011 Plan, increase the maximum number of shares that may be issued under the 2011 Plan through Incentive
+Stock Options, change the class of individuals eligible to receive awards under the 2011 Plan, or amend or delete the provisions
+regarding restrictions on re-pricing of options.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>Transferability of
+Awards</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Awards will not be transferable
+other than by will or the laws of descent and distribution, pursuant to a qualified domestic <FONT STYLE="color: black">relations</FONT>
+order as defined by the Code or Title I of the Employee Retirement Income Security Act of 1974, as amended, or the rules thereunder,
+or with the consent of the Committee. Notwithstanding any provision to the contrary, Incentive Options will not be transferable
+other than by will or the laws of descent and distribution.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>&nbsp;</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>Effective Date and
+Term of the 2011 Plan</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The 2011 Plan was adopted
+by our Board of Directors on June 14, 2011, subject to the approval of our stockholders at the Annual Meeting. The 2011 Plan will
+become effective on October 25, 2011 (the &ldquo;Effective Date&rdquo;), provided that the adoption of the Plan is approved by
+the stockholders on such date. No award will be granted under the 2011 Plan after ten years from the Effective Date. The Board
+of Directors may terminate the 2011 Plan at any time without prejudice to the holders of any then outstanding awards.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>&nbsp;</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>U.S. Federal income
+Tax Consequences</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Currently, we do not anticipate
+that we will generate future U.S. taxable income in order to allow us to utilize any of the tax <FONT STYLE="color: black">deductions</FONT>
+discussed in the following sections.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B><I>&nbsp;</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>Incentive Stock Options</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Options that constitute
+incentive stock options within the meaning of Section 422(b) of the Code are subject to special federal income tax treatment. A
+recipient of an incentive stock option will not realize taxable income at the time <FONT STYLE="color: black">of</FONT> the grant
+or exercise of such option, and the Company will not be entitled to a deduction at either such time, if the employee makes no disposition
+of shares acquired pursuant to such incentive stock option (a) within two years after the option was granted or (b) within one
+year after exercising such option (collectively, the &ldquo;Holding Periods&rdquo;). However, the recipient must include the difference
+between the exercise price and the fair market value of the Common Stock on the date of exercise in alternative minimum taxable
+income for the year in which such exercise occurs. If the recipient exercises an incentive stock option and disposes of the stock
+in the same year and the amount realized is less than the fair market value on the exercise date, only the difference between the
+amount realized and the adjusted basis of the stock will be included in alternative minimum taxable income. Upon disposition of
+the shares of Common Stock received upon exercise of an incentive stock option after the Holding Periods, the difference between
+the amount realized and the exercise price should constitute a long-term capital gain or loss. Under such circumstances, however,
+the Company will not be entitled to any deduction for federal income tax purposes.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">If a recipient disposes
+of shares acquired pursuant to the exercise of an incentive stock option prior to the end of the Holding Periods, the disposition
+would be treated as a disqualifying disposition. The employee will be treated as having received, at the time of disposition, compensation
+taxable as ordinary income equal to the excess of the fair market value of the shares at the time of exercise (or in the case of
+a sale in which a loss would be recognized, the amount realized on the sale, if less) over the exercise price and any amount realized
+in excess of the fair market value of the shares at the time of exercise would be treated as a short-term or long-term capital
+gain, depending on the holding period of the shares of Common Stock. In the event of a disqualifying disposition, and subject to
+the application of Section 162(m) of the Code as discussed below, the Company may claim a deduction for compensation paid at the
+same time and in the same amount as taxable compensation is treated as received by the recipient. However, the Company will not
+be entitled to any deduction in connection with any loss to the employee or a portion of any gain that is taxable to the recipient
+as short-term or long-term capital gain.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>Nonqualified Stock
+Options</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Nonqualified stock options
+(options that are not incentive stock options within the meaning of Section 422(b) of the Code) will not qualify for special federal
+income tax treatment. As a general rule, no federal income tax is imposed on the recipient upon the grant of a nonqualified stock
+option and we are not entitled to a tax deduction by reason <FONT STYLE="color: black">of</FONT> such grant. Generally, upon exercise
+of a nonqualified stock option, the optionee will realize ordinary income in an amount equal to the excess, if any, of the fair
+market value of the shares on the date of exercise over the option exercise price. Ordinary income realized upon the exercise of
+a nonqualified stock option is not included in alternative minimum taxable income. Upon the exercise of a nonqualified stock option,
+and subject to the application of Section 162(m) of the Code as discussed below, the Company may claim a deduction for compensation
+paid at the same time and in the same amount as compensation income is recognized by the recipient assuming any federal income
+tax reporting requirements are satisfied.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Upon a subsequent disposition
+of the shares received upon exercise of a nonqualified stock option, any difference between the fair market value of the shares
+at the time of exercise and the amount realized on the disposition would be treated as capital gain or loss. If the shares received
+upon the exercise of a nonqualified stock option are transferred to the recipient subject to certain restrictions, then the taxable
+income realized by the recipient, unless the recipient elects otherwise, and the Company&rsquo;s tax deduction (assuming any federal
+income tax reporting requirements are satisfied) should be deferred and should be measured at the fair market value of the shares
+at the time the restrictions lapse. The restrictions imposed on officers, directors and 10% shareholders by Section 16(b) of the
+Exchange Act is such a restriction during the period prescribed thereby if other shares have been purchased by such an individual
+within six months of the exercise of a nonqualified stock option.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B><I>&nbsp;</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>Restricted Stock
+Awards</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The recipient of a restricted
+stock award will not realize taxable income at the time of grant, and the Company will not be entitled to a deduction at that time,
+assuming that the restrictions constitute a substantial risk of forfeiture for federal income tax purposes. When the risk of forfeiture
+with respect to the stock subject to the award lapses, the holder will realize ordinary income in an amount equal to the fair market
+value of the shares of Common stock at such time over the amount, if any, paid for the shares and, subject to Section 162(m) of
+the Code, the Company will be entitled to a corresponding deduction. All dividends and distributions (or the cash equivalent thereof)
+with respect to a restricted stock award paid to the holder before the risk of forfeiture lapses will also be compensation income
+to the holder when paid and, subject to Section 162(m) of the Code, deductible as such by the Company. Notwithstanding the foregoing,
+the holder of a restricted stock award may elect under Section 83(b) of the Code to be taxed at the time of grant of the restricted
+stock award based on the fair market value of the shares of Common Stock on the date of the award, in which case (a) subject to
+Section 162(m) of the Code, the Company will be entitled to a deduction at the same time and in the same amount, (b) dividends
+paid to the recipient during the period the forfeiture restrictions apply will be taxable as dividends and will not be deductible
+by the Company, and (c) there will be no further federal income tax consequences when the risk of forfeiture lapses. Such election
+must be made not later than 30 days after the grant of the restricted stock award and is irrevocable.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>Performance Awards
+and Incentive Awards</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">An individual who has <FONT STYLE="color: black">been</FONT>
+granted a performance award or an incentive award generally will not realize taxable income at the time of grant, and the Company
+will not be entitled to a deduction at that time. Whether a performance award or incentive award is paid in cash or shares of Common
+Stock, the individual will have taxable compensation and, subject to the application of Section 162(m) of the Code as discussed
+below, the Company will have a corresponding deduction. The measure of such income and deduction will be the amount of any cash
+paid and the fair market value of any shares of Common Stock either at the time the performance award or the incentive award is
+paid or at the time any restrictions on the shares (including restrictions under Section 16(b) of the Exchange Act) subsequently
+lapse, depending on the nature, if any, of the restrictions imposed and whether the individual elects to be taxed without regard
+to any such restrictions. Any dividend equivalents paid with respect to a performance award or an incentive award prior to the
+actual issuance of shares under the award will be compensation income to the recipient and, subject to the application of Section
+162(m) of the Code as discussed below, deductible as such by the Company.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B><I>&nbsp;</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>Bonus Stock Awards</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">When a bonus stock award
+is granted, the individual will have taxable compensation and, subject to the application of Section 162(m) of the Code as discussed
+below, the Company will have a corresponding deduction. The measure of such income and deduction will be the excess of (a) the
+fair market value of the shares of Common Stock subject to <FONT STYLE="color: black">the</FONT> award either at the time the award
+is made or at the time any restrictions on the shares (including restrictions under Section 16(b) of the Exchange Act) subsequently
+lapse, depending on the nature, if any, of the restrictions imposed and whether the individual elects to be taxed without regard
+to any such restrictions, over (b) the amount, if any, paid for the shares.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>&nbsp;</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>Tax Consequences
+to the Company</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">In order for the amounts
+described above to be deductible, such amounts must constitute reasonable compensation for services rendered and must be ordinary
+and necessary business expenses.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Our ability (or the ability
+of the Company&rsquo;s subsidiaries, as applicable) to obtain a deduction for future payments under <FONT STYLE="color: black">the</FONT>
+2011 Plan could be limited by the golden parachute rules of section 280G of the Code, which prevent the deductibility of certain
+excess parachute payments made in connection with a change in control of an employer-corporation.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Finally, the ability (or
+the ability of one of the Company&rsquo;s subsidiaries, as applicable) to obtain a deduction for amounts <FONT STYLE="color: black">paid</FONT>
+under the 2011 Plan could be limited by Section 162(m) of the Code. Section 162(m) of the Code precludes a public corporation from
+taking a deduction for annual compensation in excess of $1 million paid to its chief executive officer or any of its three other
+highest-paid officers (other than the principal financial officer). However, compensation that qualifies under Section 162(m) of
+the Code as &ldquo;performance-based&rdquo; is specifically exempt from the deduction limit. Based on Section 162(m) of the Code
+and the regulations thereunder, the Company&rsquo;s ability to deduct compensation income generated in connection with the exercise
+of stock options granted by the Committee under the 2011 Plan should not be limited by Section 162(m) of the Code. Further, the
+Company believes that the compensation income generated in connection with performance awards granted by the Committee under the
+2011 Plan should not be limited by Section 162(m) of the Code. The 2011 Plan has been designed to provide flexibility with respect
+to whether restricted stock awards granted by the Committee will qualify as performance-based compensation under Section 162(m)
+of the Code and, therefore, be exempt from the deduction limit. Assuming no election is made under Section 83(b) of the Code, if
+the lapse of the forfeiture restrictions relating to a restricted stock award is based solely upon the satisfaction of one of the
+performance criteria set forth in the 2011 Plan, then the Company believes that the compensation expense deduction relating to
+such an award will not be limited by Section 162(m) of the Code if the restricted stock award becomes vested. However, compensation
+expense deductions relating to restricted stock awards granted by the Committee will be subject to the Section 162(m) deduction
+limitation if the restricted stock become vested based upon any other criteria set forth in such award (such as the occurrence
+of a Change in Control or vesting based upon service with the Company). Compensation income generated in connection with incentive
+awards and bonus stock awards granted under the 2011 Plan will be subject to the Section 162(m) deduction limitation.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The comments set forth
+in <FONT STYLE="color: black">the</FONT> above paragraphs are only a summary of certain of the U.S. federal income tax consequences
+relating to the 2011 Plan. No consideration has been given to the effects of state, local or other tax laws on the 2011 Plan or
+award <FONT STYLE="color: black">recipients</FONT>. Currently we do not anticipate we will generate future U.S. taxable income
+in order to allow us to utilize any of the tax deductions discussed.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>Participation in
+the 2011 Plan</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The grant of awards under
+the 2011 Plan to employees, consultants and directors, including any named executive officer, is <FONT STYLE="color: black">subject</FONT>
+to the discretion of the administrator of the 2011 Plan. As of the date of this proxy statement, there has been no determination
+with respect to future awards under the 2011 Plan and, accordingly, future awards are not determinable.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><B><I>Board of Directors
+Recommendation</I></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The Board of Directors
+believes strongly that the approval of the 2011 Plan is essential to the Company&rsquo;s continued success. The company&rsquo;s
+employees are one of our most valuable assets. Equity-based awards such as those provided under the 2011 Plan are vital to our
+ability to attract and retain outstanding and highly skilled individuals. Such awards also are crucial to our ability to motivate
+employees to achieve our goals. For the reasons stated above the stockholders are being asked to approve the adoption of the 2011
+Plan.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>THE BOARD OF DIRECTORS RECOMMENDS VOTING
+&ldquo;FOR&rdquo; THE APPROVAL OF THE 2011 STOCK INCENTIVE PLAN.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Executive Compensation</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The following table sets
+forth certain compensation information for: (i) each person who served as the chief executive officer of ALL Fuels &amp; Energy
+Company at any time during the years ended December 31, 2010 and 2009, regardless of <FONT STYLE="color: black">compensation</FONT>
+level, and (ii) each of our other executive officers, other than the chief executive officer, serving as an executive officer at
+any time during 2010 and 2009. The foregoing persons are collectively referred to herein as the &ldquo;named executive officers&rdquo;.
+Compensation information is shown for the years ended December 31, 2010 and 2009.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE ALIGN="CENTER" CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 34%; border: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Name and</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Principal</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Position</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P></TD>
+    <TD STYLE="width: 6%; border: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Year</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P></TD>
+    <TD STYLE="width: 13%; border: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Salary</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">And Consulting</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Payments</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">($)</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P></TD>
+    <TD STYLE="width: 11%; border: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Bonus</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">($)</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P></TD>
+    <TD STYLE="width: 12%; border: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Stock</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Awards</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">($)</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P></TD>
+    <TD STYLE="width: 14%; border: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">All Other Compensation</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">($)</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P></TD>
+    <TD STYLE="width: 10%; border: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">Total</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">($)</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: justify">Dean E. Sukowatey</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">2010</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: right">240,000(1)</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">--</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">--</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">--</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: right">240,000(1)</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; font-style: italic; text-align: justify">President and Acting Chief Financial Officer</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">2009</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: right">240,000(2)</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: right">240,000(2)</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none"> James R. Broghammer</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">2010</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">--</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">--</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">--</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">--</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">--</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="border: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; font-style: italic"> <I>Chief Operating Officer</I></TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">2009</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">--</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">--</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">--</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">--</TD>
+    <TD STYLE="border-right: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt; text-autospace: none; text-align: center">--</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">(1)&#9;$240,000
+of Mr. Sukowatey&rsquo;s salary was accrued and unpaid and is subject to the Debt Conversion Agreement</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.25in; text-align: justify; text-indent: -0.25in">(2)&#9;$120,000
+of Mr. Sukowatey&rsquo;s salary was accrued and unpaid which is subject to the Debt conversion Agreement.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Outstanding Equity Awards at Fiscal Year-End
+Table</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">No options have been issued
+to our executive officers during fiscal year 2010.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Employment Contracts and Termination of
+Employment and Change-in-Control Agreements</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">On or about September 26,
+2011, we entered into an Amended and Restated Employment Agreement with our president, Dean E. Sukowatey. Pursuant to the Amended
+Employment Agreement, the Company agrees to pay Sukowatey up to $240,000 per year as follows: beginning at $12,500 per month for
+4 months, $15,000 per month from month 5 until the Company closes on a debt or equity financing of at least $1,000,000, and $20,000
+per month thereafter. Sukowatey&rsquo;s compensation is no longer connected to the acquisition of an ethanol plant.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The Amended Employment
+Agreement further acknowledges that Sukowatey on his own time and money, and for his own benefit, intends to continue to pursue
+the acquisition of an ethanol plant. In connection therewith, in consideration for the release and cancellation of $1,000 of accounts
+payable owed to Sukowatey by the Company, the Company agreed to assign the name &ldquo;All Fuels &amp; Energy&rdquo; to Sukowatey
+upon the Company effecting a name change.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">On August 16, 2011, the
+Company entered the Debt Conversion Agreement with respect to $534,650 of the outstanding accrued salary of Mr. Sukowatey. Pursuant
+to the Debt Conversion Agreement, Sukowatey agreed to convert the $534,650 accounts payable into shares of the Company&rsquo;s
+common stock at a conversion price of $0.00069 per share (subject to adjustment), upon the Company effecting the 1 for 50 reverse
+split. On September 26, 2011, the Debt Conversion Agreement was amended to convert up to 20,000,000 shares of the Company&rsquo;s
+common stock prior to the Company effecting a 1 for 50 reverse split. On August19, 2011, pursuant to the Debt Conversion Agreement,
+as amended, Sukowatey converted $13,800 of the accrued and unpaid salary into 20,000,000 shares of the Company&rsquo;s common stock.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">In connection with the
+issuance of securities pursuant to the Debt Conversion Agreement, Sukowatey entered into a lock-up agreement. Pursuant to the Lock-Up
+Agreement Sukowatey agreed not to sell, pledge, hypothecate, transfer, assign, or in any manner dispose of the stock issued pursuant
+to the Debt Conversion Agreement for a period of 9 months.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">We have no compensatory
+plan or arrangement that results or will result from the resignation, retirement or any other termination of an executive officer's
+employment or from a change in control or a change in an executive officer's responsibilities following a change in control.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Director Compensation</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The following table sets
+forth the compensation paid to our directors for our fiscal years ended December 31, 2010 and 2009.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Director Compensation</B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 28%; padding: 4.5pt; text-autospace: none; font-weight: bold; text-align: center">Name</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; font-weight: bold; text-align: center">Fees Earned or Paid in Cash ($)</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; font-weight: bold; text-align: center">Stock Awards ($)</TD>
+    <TD STYLE="width: 10%; padding: 4.5pt; text-autospace: none; font-weight: bold; text-align: center">Option Awards ($)</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; font-weight: bold; text-align: center">Non-Equity Incentive Plan Compensation ($)</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; font-weight: bold; text-align: center">Nonqualified Deferred Compensation Earnings ($)</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; font-weight: bold; text-align: center">All Other Compensation ($)</TD>
+    <TD STYLE="width: 7%; padding: 4.5pt; text-autospace: none; font-weight: bold; text-align: center">Total ($)</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 22%; border-bottom: windowtext 1pt solid; padding: 4.5pt">&nbsp;</TD>
+    <TD STYLE="width: 16%; padding: 4.5pt; text-autospace: none; text-align: right">&nbsp;</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; text-align: right">&nbsp;</TD>
+    <TD STYLE="width: 10%; padding: 4.5pt; text-autospace: none; text-align: right">&nbsp;</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; text-align: right">&nbsp;</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; text-align: right">&nbsp;</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; text-align: right">&nbsp;</TD>
+    <TD STYLE="width: 8%; padding: 4.5pt; text-autospace: none; text-align: right">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 22%; padding: 4.5pt; text-autospace: none">Dean E. Sukowatey</TD>
+    <TD STYLE="width: 16%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD>
+    <TD STYLE="width: 10%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD>
+    <TD STYLE="width: 8%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 22%; padding: 4.5pt; text-autospace: none">James R. Broghammer</TD>
+    <TD STYLE="width: 16%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD>
+    <TD STYLE="width: 10%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD>
+    <TD STYLE="width: 8%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 22%; padding: 4.5pt; text-autospace: none">Brad Knaack</TD>
+    <TD STYLE="width: 16%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; text-align: right">2,000(1)</TD>
+    <TD STYLE="width: 10%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD>
+    <TD STYLE="width: 11%; padding: 4.5pt; text-autospace: none; text-align: right">---</TD>
+    <TD STYLE="width: 8%; padding: 4.5pt; text-autospace: none; text-align: right">2,000(1)</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 10pt 0.5in; text-indent: -0.25in">(1)<FONT STYLE="font: 7pt Times New Roman, Times, Serif">&nbsp;&nbsp;&nbsp;&nbsp;
+</FONT>Mr. Knaack was issued 50,000 shares on March 18, 2010.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>SIGNIFICANT STOCKHOLDERS</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">Beneficial ownership has
+been determined in accordance with Rule 13d-3 under the Exchange Act. Under this rule, certain shares may be deemed to be beneficially
+owned by more than one person (if, for example, persons share the power to vote or the power to dispose of the shares). In addition,
+shares are deemed to be beneficially owned by a person if the person has the right to acquire shares (for example, upon exercise
+of an option or warrant) within 60 days of the date as of which the information is provided. In computing the percentage ownership
+of any person, the amount of shares is deemed to include the amount of shares beneficially owned by such person by reason of such
+acquisition rights. For purposes of beneficial ownership calculations herein, it is assumed that Reverse Split will be effected
+and the convertible notes, Series A Warrants and the Series B Warrants issued in connection with the Financing and the Debt Conversion
+Agreement will be exercisable within 60 days from September 27, 2011. As a result, the percentage of outstanding shares of any
+person as shown in the following table does not necessarily reflect the person&rsquo;s actual voting power at any particular date.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0.5in 0 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">To our knowledge, except
+as indicated in the footnotes to this table and pursuant to applicable community property laws, the persons named in the table
+have sole voting and investment power with respect to all shares of common stock shown as beneficially owned by them.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE ALIGN="CENTER" CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">Name and Address of Beneficial Owner (1)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="border-top: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 10pt Times New Roman,serif; margin: 0 0 3pt; text-align: center"><B>Number of Shares</B></P>
+        <P STYLE="font: 10pt Times New Roman,serif; margin: 0 0 3pt; text-align: center"><B>Owned </B></P></TD>
+    <TD COLSPAN="2" STYLE="border-top: windowtext 1pt solid; border-bottom: windowtext 1pt solid; padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center; font-weight: bold">Percentage of Class</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR>
+    <TD STYLE="width: 50%; vertical-align: top; padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">Beneficial Owners of more than 5%</TD>
+    <TD STYLE="width: 3%; vertical-align: top; padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="width: 21%; vertical-align: top; padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="width: 3%; vertical-align: bottom; padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="width: 20%; vertical-align: bottom; padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="width: 3%; vertical-align: bottom; padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">Joseph R. Lee</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">200,542 (2)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">9.99%</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">Lee Bear I, LLC (3)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">200,542 (4)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">9.99%</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">Lazy Bear, LLC (5)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">200,542 (6)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">9.99%</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">Jinsun, LLC (7)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">200,542 (8)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">9.99%</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">Equity Highrise (9)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">200,542 (10)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">9.99%</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">Acadia (11)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">95,079 (12)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">4.99%</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">Sun Bear, LLC(13)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">164,396</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">9.10%</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">Loras Wolfe</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">114,000</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">6.31%</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">Officers and Directors</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">Dean E. Sukowatey</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">15,814,012 (14)</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">93.55%</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">James R. Broghammer</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">53,989</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">2.90%</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">Brad Knaack</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">12,848</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">*</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">All directors and executive officers as a group (3 persons) **</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: justify">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">
+        <P STYLE="font: 10pt Times New Roman,serif; margin: 0 0 3pt; text-align: center">15,880,849</P>
+        <P STYLE="font: 10pt Times New Roman,serif; margin: 0 0 3pt; text-align: center">&nbsp;</P></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">95.59%</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-bottom: 3pt; padding-left: 5.4pt; text-align: center">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">_________</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">* Less than 1%</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">(1)&#9;Unless
+otherwise indicated, the mailing address of the beneficial owner is c/o All Fuels &amp; Energy, Company, 6165 N.W. 86<SUP>th</SUP>
+Street, Johnston, Iowa 50131.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">(2) &#9;Consists
+of 200,542 shares of common stock underlying the convertible note issued in connection with the Financing, but excludes an aggregate
+of 870,216 shares for the Company&rsquo;s common stock underlying derivative securities because Joseph R. Lee is contractually
+prohibited from exercising/converting such derivative securities to the extent that he would beneficially own in excess of 9.999%
+of the total number of issued and outstanding shares of common stock after such exercise, which includes an additional 315,400
+shares of the Company&rsquo;s common stock underlying the convertible notes issued in the Financing, 169,524 shares of the Company&rsquo;s
+common stock underlying the Series A Warrants, 169,524 shares of the Company&rsquo;s common stock underlying the Series B Warrants,
+and 215,768 shares of the Company&rsquo;s common stock underlying a prior convertible note assigned to Mr. Lee pursuant to the
+Financing (includes a 4.99% restriction on conversion)..</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in">(3)&#9;Lee Bear I, LLC is a dual
+member, Florida based LLC. Members are Joseph R. Lee and Lazy Bear, LLC. Lazy Bear, LLC acts as the member manager and is also
+a Florida based LLC. The physical address is 402 Appel Routh Ste 1C Key West FL 33040. The alternative mailing address is 5220
+Spring Valley Ste 195 Dallas TX 75254.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">(4)&#9;Consists
+of 200,542 shares of common stock underlying the convertible note issued in connection with the Financing, but excludes an aggregate
+of 4,190,891 shares for the Company&rsquo;s common stock underlying derivative securities because Lee Bear I, LLC is contractually
+prohibited from exercising/converting such derivative securities to the extent that it would beneficially own in excess of 9.999%
+of the total number of issued and outstanding shares of common stock after such exercise, which includes an additional 2,037,139
+shares of the Company&rsquo;s common stock underlying the convertible notes issued in the Financing, 735,238 shares of the Company&rsquo;s
+common stock underlying the Series A Warrants, 735,238 shares of the Company&rsquo;s common stock underlying the Series B Warrants,
+and 638,275 shares of the Company&rsquo;s common stock underlying a prior convertible note assigned to Lee Bear I, LLC pursuant
+to the Financing (includes a 4.99% restriction on conversion).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">(5)&#9;Lazy
+Bear, LLC is a Florida based LLC with Oso Capital, LLC as its sole member. Oso Capital, LLC is Texas based, the member manager,
+and wholly owned by Scott B. Gann. The physical address is 402 Appel Routh Ste 1C Key West FL 33040. The alternative mailing address
+is 5220 Spring Valley Ste 195 Dallas TX 75254.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">(6)&#9;Consists
+of 200,542 shares of common stock underlying the convertible note issued in connection with the Financing, but excludes an aggregate
+of 729,325 shares for the Company&rsquo;s common stock underlying derivative securities because Lazy Bear, LLC is contractually
+prohibited from exercising/converting such derivative securities to the extent that it would beneficially own in excess of 9.999%
+of the total number of issued and outstanding shares of common stock after such exercise, which includes an additional 89,913 shares
+of the Company&rsquo;s common stock underlying the convertible notes issued in the Financing, 95,238 shares of the Company&rsquo;s
+common stock underlying the Series A Warrants, 95,238 shares of the Company&rsquo;s common stock underlying the Series B Warrants,
+and 449,536 shares of the Company&rsquo;s common stock underlying a prior convertible note assigned to Lazy Bear, LLC pursuant
+to the Financing (includes a 4.99% restriction on conversion).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">(7)&#9;Kevan
+Casey has voting control and investment discretion over securities held by Jinsun, LLC. The mailing address of the beneficial owner
+2710 Thomes Avenue, Cheyenne, WY 82001</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">(8)&#9;Consists
+of 200,542 shares of common stock underlying the convertible note issued in connection with the Financing, but excludes an aggregate
+of 4,035,980 shares for the Company&rsquo;s common stock underlying derivative securities because Jinsun, LLC is contractually
+prohibited from exercising/converting such derivative securities to the extent that it would beneficially own in excess of 9.999%
+of the total number of issued and outstanding shares of common stock after such exercise, which includes an additional 2,355,980
+shares of the Company&rsquo;s common stock underlying the convertible notes issued in the Financing, 840,000 shares of the Company&rsquo;s
+common stock underlying the Series A Warrants and 840,000 shares of the Company&rsquo;s common stock underlying the Series B Warrants.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">(9)&#9;Jonathan
+Friedlander has voting control and investment discretion over securities held by Equity Highrise. The mailing address of the beneficial
+owner 5348 Vegas Drive, #761, Las Vegas, Nevada 89108.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">(10)&#9;Consists
+of 200,542 shares of common stock underlying the convertible note issued in connection with the Financing, but excludes an aggregate
+of 822,183 shares for the Company&rsquo;s common stock underlying derivative securities because Equity Highrise is contractually
+prohibited from exercising/converting such derivative securities to the extent that it would beneficially own in excess of 9.999%
+of the total number of issued and outstanding shares of common stock after such exercise, which includes an additional 286,415
+shares of the Company&rsquo;s common stock underlying the convertible notes issued in the Financing, 160,000 shares of the Company&rsquo;s
+common stock underlying the Series A Warrants, 160,000 shares of the Company&rsquo;s common stock underlying the Series B Warrants,
+and 215,768 shares of the Company&rsquo;s common stock underlying a prior convertible note assigned to Equity Highrise pursuant
+to the Financing (includes a 4.99% restriction on conversion).</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">(11)&#9;Michael
+C. Goldberg has voting control and investment discretion over securities held by Acadia. The mailing address of the beneficial
+owner Victoria Hall, Hamilton, Bermuda HM11.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">(12)&#9;Consists
+of 95,079 shares of common stock underlying a prior convertible note assigned to Acadia pursuant to the Financing, but excludes
+an aggregate of 1,037,704 shares for the Company&rsquo;s common stock underlying such note because Acadia is contractually prohibited
+from converting to the extent that it would beneficially own in excess of 4.999% of the total number of issued and outstanding
+shares of common stock after such exercise,.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-indent: -0.5in">(13)&#9;Sun Bear, LLC is Texas based
+LLC with Scott B. Gann as its sole member. The mailing address is 5220 Spring Valley Ste 195 Dallas TX 75254</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in; text-align: justify; text-indent: -0.5in">(14)&#9; Consists
+of 15,097,701 shares underlying the Debt Conversion Agreement.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>DESCRIPTION OF SECURITIES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Common Stock</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">We are authorized to issue
+up to 700,000,000 shares of common stock, par value $0.01. As of September 26, 2011, there were 89,894,654 shares of common stock
+outstanding. Holders of our common stock are entitled to one vote per share on all matters to be voted upon by the shareholders.
+Our Delaware bylaws state that the election of directors requires a plurality of votes cast by our shareholders. All other actions
+by our shareholders require a majority of votes cast. Upon the liquidation, dissolution, or winding up of our company, the holders
+of common stock are entitled to share ratably in all of our assets which are legally available for distribution after payment of
+all debts and other liabilities and liquidation preference of any outstanding common stock. Holders of common stock have no preemptive,
+subscription, redemption or conversion rights. The outstanding shares of common stock are validly issued, fully paid and non-assessable.
+The rights, preferences and privileges of holders of our common stock are subject to, and may be adversely affected by, the rights
+of holders of shares of any series of preferred stock which we may designate and issue in the future without further shareholder
+approval.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The transfer agent of our
+common stock is American Registrar &amp; Transfer Co., 342 East 900 South, Salt Lake City, UT 84111.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Preferred Stock</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">We are authorized to issue
+up to 50,000,000 shares of preferred stock, par value $0.01. As of September 26, 2011, no shares of preferred stock are issued
+and outstanding. The shares of preferred stock may be issued in series, and shall have such voting powers, full or limited, or
+no voting powers, and such designations, preferences and relative participating, optional or other special rights, and qualifications,
+limitations or restrictions thereof, as shall be stated and expressed in the resolution or resolutions providing for the issuance
+of such stock adopted from time to time by the Board of Directors. The Board of Directors is expressly vested with the authority
+to determine and fix in the resolution or resolutions providing for the issuances of preferred stock the voting powers, designations,
+preferences and rights, and the qualifications, limitations or restrictions thereof, of each such series to the full extent now
+or hereafter permitted by the laws of the State of Delaware. We do not have any present plans to issue any shares of preferred
+stock.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>OTHER MATTERS</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The Board knows of no other
+business to come before the Special Meeting. However, if any other matters are properly brought before the Special Meeting, the
+persons named in the accompanying form of proxy or their substitutes will vote in their discretion on those matters.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Record Date</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="color: black">Our
+Board of Directors</FONT> <FONT STYLE="color: black">has fixed the close of business on September 26, 2011, as the record date
+for the determination of shareholders who are entitled to receive this information statement. There were </FONT>89,894,654 <FONT STYLE="color: black">shares
+of our common stock issued and outstanding on the Record Date.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Where You Can Find More Information</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="color: black">We
+are subject to the information and reporting requirements of the Securities Exchange Act and in accordance with the </FONT>Exchange<FONT STYLE="color: black">
+Act, we file periodic reports, such as our annual report, and other information with the SEC relating to our business, financial
+statements and other matters. You may read and copy any document that we file at the public reference facilities of the SEC in
+Washington, D.C. You may call the SEC at 1-800-SEC-0330 for further information on the public reference rooms. Our SEC filings
+are also available on the SEC&rsquo;s website at www.sec.gov.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>By Order of the Board of Directors</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 9pt d; margin: 0; color: Red"><B><IMG SRC="image_003.jpg" ALT=""></B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>Dean E. Sukowatey</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>President</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">September 27, 2011</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="color: black">WHETHER
+OR NOT YOU PLAN TO ATTEND THE SPECIAL MEETING, PLEASE COMPLETE, SIGN, DATE, AND PROMPTLY RETURN THE ACCOMPANYING PROXY BY MAIL
+OR BY FAX AT </FONT>(419) 730-6068<FONT STYLE="color: black">. YOU MAY REVOKE YOUR PROXY AT ANY TIME PRIOR TO THE SPECIAL MEETING.
+IF YOU DECIDE TO ATTEND THE </FONT>SPECIAL<FONT STYLE="color: black"> MEETING AND WISH TO CHANGE YOUR PROXY VOTE, YOU MAY DO SO
+AUTOMATICALLY BY VOTING IN PERSON AT THE MEETING.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in"><FONT STYLE="color: black"><B>THANK
+YOU FOR </B></FONT>YOUR<FONT STYLE="color: black"><B> ATTENTION TO THIS MATTER. YOUR PROMPT RESPONSE WILL GREATLY FACILITATE ARRANGEMENTS
+FOR THE SPECIAL MEETING.</B></FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-bottom: 6pt">&nbsp;</DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt">&nbsp;</DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">FORM OF PROXY</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">ALL FUELS &amp; ENERGY COMPANY</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">SPECIAL MEETING OF SHAREHOLDERS</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">October 28, 2011</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">ALL FUELS &amp; ENERGY COMPANY</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify; text-indent: 0.5in">The undersigned shareholder
+of All Fuels &amp; Energy Company (the &ldquo;Company&rdquo;) hereby acknowledges receipt of the Notice of Special Meeting of Shareholders
+and appoints Dean Sukowatey with full power of substitution, as Proxy or Proxies to vote as specified in this Proxy all the shares
+of common stock of the Company of the undersigned at the Special Meeting of Shareholders of the Company to the held at 5:00 P.M.,
+Central Time, Tuesday, October 28, 2011, and any and all adjournments or postponements thereof. Either of such Proxies or substitutes
+shall have and may exercise all of the powers of said Proxies hereunder. The undersigned shareholder hereby revokes any proxy or
+proxies heretofore executed for such matters.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">THIS PROXY, WHEN PROPERLY EXECUTED, WILL BE
+VOTED IN THE MANNER AS DIRECTED HEREIN BY THE UNDERSIGNED SHAREHOLDER. IF NO DIRECTION IS MADE, THIS PROXY WILL BE VOTED &ldquo;FOR&rdquo;
+THE PROPOSAL TO CHANGE THE COMPANY&rsquo;S NAME TO &ldquo;ALL ENERGY CORPORATION&rdquo;, &ldquo;FOR&rdquo; THE PROPOSAL TO EFFECT
+A REVERSE STOCK SPLIT OF THE COMPANY&rsquo;S COMMON STOCK AT A RATIO OF 1-FOR-50, AND &ldquo;FOR&rdquo; THE 2011 STOCK INCENTIVE
+PLANE<FONT STYLE="color: black">,</FONT> AND IN THE DISCRETION OF THE PROXIES AS TO ANY OTHER MATTERS THAT MAY PROPERLY COME BEFORE
+THE MEETING. THE UNDERSIGNED SHAREHOLDER MAY REVOKE THIS PROXY AT ANY TIME BEFORE IT IS VOTED BY THE DELIVERING TO THE SECRETARY
+OF THE COMPANY EITHER A WRITTEN REVOCATION OF THE PROXY OR A DULY EXECUTED PROXY BEARING A LATER DATE, OR BY APPEARING AT THE SPECIAL
+MEETING AND VOTING IN PERSON.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 5 -->
+    <DIV STYLE="margin-bottom: 6pt">&nbsp;</DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt">&nbsp;</DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>Important Notice Regarding the Availability
+of Proxy Materials for the Special Meeting of Stockholders</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>to be held on October 28, 2011:</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center"><B>This Proxy Statement is available at: www.allenergyco.com</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 78%; border-right: windowtext 1pt solid; padding-right: 0.7pt">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0"><B>There are two ways to vote your Proxy &ndash; By Mail or by Fax</B></P>
+        <P STYLE="font: 6pt Times New Roman, Times, Serif; margin: 0"><B>&nbsp;</B></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify"><B>Mark, sign and date your proxy card and
+        return it by mail in the enclosed postage paid envelope: Interwest Transfer, 1981 Murray Holiday RD, Ste 100, P.O. Box 17136, Salt
+        Lake City, UT 84117 or fax it to: (801) 277 3147.</B></P></TD>
+    <TD STYLE="width: 22%; border: windowtext 1pt solid; padding-bottom: 12pt; font-size: 8pt; font-weight: bold">COMPANY #<BR STYLE="mso-special-character: line-break"> <BR STYLE="mso-special-character: line-break"></TD></TR>
+</TABLE>
+<P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 6pt 0 12pt; text-align: center"><B>If you vote by fax, please do not
+mail your Proxy Card</B></P>
+
+<P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 6pt 0 12pt; text-align: center"><B>The Board of Directors Recommends
+a Vote <U>FOR</U> Proposal 1, <U>FOR</U> Proposal 2, and <U>FOR</U> Proposal 3.</B></P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0 0 12pt"><B>PROPOSAL 1 &ndash; Name Change:</B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 1%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 61%; padding-right: 0.7pt; text-autospace: none"> <FONT STYLE="color: black">To approve the proposal to change the Company&#8217;s name from All Fuels &amp; Energy Company to All Energy Corporation.</FONT>.</TD>
+    <TD STYLE="width: 2%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 3%; font: 8pt Wingdings; text-align: right">o</TD>
+    <TD STYLE="width: 1%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 4%; font-size: 8pt; font-weight: bold">FOR</TD>
+    <TD STYLE="width: 2%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 3%; font: 8pt Wingdings; text-align: right">o</TD>
+    <TD STYLE="width: 1%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 8%; font-size: 8pt; font-weight: bold">AGAINST</TD>
+    <TD STYLE="width: 2%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 3%; font: 8pt Wingdings; text-align: right">o</TD>
+    <TD STYLE="width: 1%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 8%; font-size: 8pt; font-weight: bold">ABSTAIN</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt; text-align: right">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt; text-align: right">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt; text-align: right">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0 0 6pt">&nbsp;</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0 0 12pt"><B>PROPOSAL 2 &ndash; Reverse Split:</B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 1%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 61%; padding-right: 0.7pt; text-autospace: none"> <FONT STYLE="color: black">To approve the proposal to effect a reverse split of the Company&#8217;s common stock at a ratio of 1-for-50 </FONT></TD>
+    <TD STYLE="width: 2%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 3%; font: 8pt Wingdings; text-align: right">o</TD>
+    <TD STYLE="width: 1%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 4%; font-size: 8pt; font-weight: bold">FOR</TD>
+    <TD STYLE="width: 2%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 3%; font: 8pt Wingdings; text-align: right">o</TD>
+    <TD STYLE="width: 1%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 8%; font-size: 8pt; font-weight: bold">AGAINST</TD>
+    <TD STYLE="width: 2%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 3%; font: 8pt Wingdings; text-align: right">o</TD>
+    <TD STYLE="width: 1%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 8%; font-size: 8pt; font-weight: bold">ABSTAIN</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt; text-align: right">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt; text-align: right">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt; text-align: right">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="font-size: 8pt">&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0 0 12pt"><B>PROPOSAL 3 &ndash; Stock Incentive Plan:</B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 1%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 61%; padding-right: 0.7pt; text-autospace: none"> <FONT STYLE="color: black">To approve the 2011 Stock Incentive Plan.</FONT>.</TD>
+    <TD STYLE="width: 2%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 3%; font: 8pt Wingdings; text-align: right">o</TD>
+    <TD STYLE="width: 1%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 4%; font-size: 8pt; font-weight: bold">FOR</TD>
+    <TD STYLE="width: 2%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 3%; font: 8pt Wingdings; text-align: right">o</TD>
+    <TD STYLE="width: 1%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 8%; font-size: 8pt; font-weight: bold">AGAINST</TD>
+    <TD STYLE="width: 2%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 3%; font: 8pt Wingdings; text-align: right">o</TD>
+    <TD STYLE="width: 1%; font-size: 1pt">&nbsp;</TD>
+    <TD STYLE="width: 8%; font-size: 8pt; font-weight: bold">ABSTAIN</TD></TR>
+</TABLE>
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0 0 6pt">&nbsp;</P>
+
+<P STYLE="font: 8pt Times New Roman, Times, Serif; margin: 0 0 12pt"><B>THIS PROXY WHEN PROPERLY EXECUTED WILL BE VOTED AS DIRECTED
+OR, IF NO DIRECTION IS GIVEN, WILL BE VOTED <U>FOR</U> PROPOSAL 1, <U>FOR</U> PROPOSAL 2, AND <U>FOR</U> PROPOSAL 3.</B></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 9pt">Address Change?&nbsp; Mark Box&nbsp;&nbsp; &#61551;&nbsp;&nbsp;&nbsp; Indicate changes below:</TD>
+    <TD STYLE="font-size: 9pt">Date</TD>
+    <TD COLSPAN="2" STYLE="border-bottom: windowtext 1pt solid; font-size: 9pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 9pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.7pt">
+        <P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+        <P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0">Signature</P></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: windowtext 1pt solid; font-size: 9pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.7pt">
+        <P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+        <P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0">Printed Name</P></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: windowtext 1pt solid; font-size: 9pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.7pt">
+        <P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+        <P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0">Signature (if jointly held)</P></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: windowtext 1pt solid; font-size: 9pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 8pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 0.7pt">
+        <P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+        <P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0">Printed Name</P></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: windowtext 1pt solid; font-size: 9pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font-size: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding-right: 0.7pt">
+        <P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+        <P STYLE="font: 9pt Times New Roman, Times, Serif; margin: 0">Please sign exactly as your name(s) appear on Proxy. If held in joint
+        tenancy, all persons should sign. Trustees, administrators, etc., should include title and authority. Corporations should provide
+        full name of corporation and title of authorized officer signing the proxy.</P></TD>
+    <TD STYLE="font-size: 1pt">&nbsp;</TD></TR>
+<TR>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD STYLE="width: 315px">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0; text-align: justify">&nbsp;</P>
+
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>image_001.jpg
+<TEXT>
+begin 644 image_001.jpg
+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
+58=N#SWS^%;$LGVMA)C;@8QUH`__9
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>image_002.jpg
+<TEXT>
+begin 644 image_002.jpg
+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
+:%%%%`!56^_Y8?]=5HHH`OP??/THHHH`__]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>image_003.jpg
+<TEXT>
+begin 644 image_003.jpg
+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
+:%%%%`!56^_Y8?]=5HHH`OP??/THHHH`__]D_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
