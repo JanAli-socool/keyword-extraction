@@ -315,15 +315,22 @@ def summarize_file(path: Path, div_term_patterns, fin_term_patterns, dataset_lab
 #             summaries.append(s)
 #             all_details.extend(d)
 #         except Exception as e:
-#             print(f"Error processing {path.name}: {e}")
-def run_pipeline(src_dir: str, out_xlsx: str, limit: int = 10, use_bertopic: bool = False):
-    src = Path(src_dir)
-    extra = Path("data2")  # DEF14 directory
+# #             print(f"Error processing {path.name}: {e}")
+# def run_pipeline(src_dir: str, out_xlsx: str, limit: int = 10, use_bertopic: bool = False):
+#     src = Path(src_dir)
+#     extra = Path("data2")  # DEF14 directory
 
-    if not src.exists():
-        raise FileNotFoundError(src)
-    if not extra.exists():
-        raise FileNotFoundError(extra)
+#     if not src.exists():
+#         raise FileNotFoundError(src)
+#     if not extra.exists():
+#         raise FileNotFoundError(extra)
+def run_pipeline(src_dir, out_xlsx, limit=5, use_bertopic=False):
+    if not os.path.exists(src_dir):
+        raise FileNotFoundError(f"Source directory not found: {src_dir}")
+
+    files = [f for f in os.listdir(src_dir) if f.endswith(".txt")]
+    if not files:
+        raise FileNotFoundError(f"No .txt files found in directory: {src_dir}")
 
     # load glossaries
     div_terms = load_glossary(DIVERSITY_GLOSSARY_PATH)
@@ -430,3 +437,4 @@ if __name__ == "__main__":
     args = ap.parse_args()
 
     run_pipeline(args.src_dir, args.out_xlsx, limit=args.limit, use_bertopic=args.bertopic)
+
