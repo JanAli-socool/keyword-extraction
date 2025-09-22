@@ -28,6 +28,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from transformers import pipeline, AutoTokenizer
 import nltk
 nltk.download("punkt", quiet=True)
+nltk.download("punkt_tab", quiet=True)
 from nltk.tokenize import sent_tokenize
 
 # Topic modelling fallbacks
@@ -526,5 +527,6 @@ if __name__ == "__main__":
     args = ap.parse_args()
 
     run_pipeline(args.src_dir, args.out_xlsx, limit=args.limit, use_bertopic=args.bertopic)
+
 
 
