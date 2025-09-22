@@ -324,11 +324,113 @@ def summarize_file(path: Path, div_term_patterns, fin_term_patterns, dataset_lab
 #         raise FileNotFoundError(src)
 #     if not extra.exists():
 #         raise FileNotFoundError(extra)
+# def run_pipeline(src_dir, out_xlsx, limit=5, use_bertopic=False):
+#     if not os.path.exists(src_dir):
+#         raise FileNotFoundError(f"Source directory not found: {src_dir}")
+
+#     files = [f for f in os.listdir(src_dir) if f.endswith(".txt")]
+#     if not files:
+#         raise FileNotFoundError(f"No .txt files found in directory: {src_dir}")
+
+#     # load glossaries
+#     div_terms = load_glossary(DIVERSITY_GLOSSARY_PATH)
+#     fin_terms = load_glossary(FINANCIAL_GLOSSARY_PATH)
+#     div_term_patterns = compile_term_patterns(div_terms)
+#     fin_term_patterns = compile_term_patterns(fin_terms)
+
+#     # collect files with dataset labels
+#     files = [(p, "10-K") for p in sorted(src.glob("*.txt"))]
+#     files += [(p, "DEF14") for p in sorted(extra.glob("*.txt"))]
+#     files = files[:limit]   # still respects limit
+
+#     summaries = []
+#     all_details = []
+
+#     for path, dataset_label in tqdm(files, desc="Processing files"):
+#         try:
+#             s, d = summarize_file(path, div_term_patterns, fin_term_patterns, dataset_label)
+#             summaries.append(s)
+#             all_details.extend(d)
+#         except Exception as e:
+#             print(f"Error processing {path.name}: {e}")
+
+
+#     # write intermediate sheets
+#     summary_df = pd.DataFrame(summaries)
+#     details_df = pd.DataFrame(all_details)
+
+#     # Topic modeling on sentences in details_df
+#     topics_rows = []
+#     if not details_df.empty:
+#         sentences = details_df["Sentence"].astype(str).tolist()
+#         if use_bertopic and BERTOPIC_AVAILABLE:
+#             tm = run_bertopic(sentences)
+#             if tm:
+#                 topic_ids = tm["topics"]
+#                 # create topic labels from model
+#                 topic_info = tm["model"].get_topic_info()
+#                 # extract representative keywords via get_topic
+#                 topic_labels = {}
+#                 for tid in set(topic_ids):
+#                     top_words = tm["model"].get_topic(tid)
+#                     if top_words:
+#                         topic_labels[tid] = ", ".join([w for w, _ in top_words[:10]])
+#                     else:
+#                         topic_labels[tid] = ""
+#                 for i, row in details_df.reset_index(drop=True).iterrows():
+#                     topics_rows.append({
+#                         "File": row["File"],
+#                         "Company": row["Company"],
+#                         "CIK": row["CIK"],
+#                         "Sentence": row["Sentence"],
+#                         "Topic_ID": int(topic_ids[i]) if i < len(topic_ids) else None,
+#                         "Topic_Label": topic_labels.get(topic_ids[i], "") if i < len(topic_ids) else "",
+#                         "Diversity": row.get("Diversity", False),
+#                         "Financial": row.get("Financial", False),
+#                         "MatchedTerms": row.get("MatchedTerms", "")
+#                     })
+#         else:
+#             # LDA fallback
+#             lda_res = run_lda(sentences, n_topics=TOPIC_NUM)
+#             if lda_res:
+#                 topic_ids = lda_res["topic_ids"]
+#                 topic_labels = lda_res["topic_labels"]
+#                 for i, row in details_df.reset_index(drop=True).iterrows():
+#                     tid = topic_ids[i] if i < len(topic_ids) else None
+#                     topics_rows.append({
+#                         "File": row["File"],
+#                         "Company": row["Company"],
+#                         "CIK": row["CIK"],
+#                         "Sentence": row["Sentence"],
+#                         "Topic_ID": int(tid) if tid is not None else None,
+#                         "Topic_Label": topic_labels.get(tid, "") if tid is not None else "",
+#                         "Diversity": row.get("Diversity", False),
+#                         "Financial": row.get("Financial", False),
+#                         "MatchedTerms": row.get("MatchedTerms", "")
+#                     })
+
+#     topics_df = pd.DataFrame(topics_rows)
+
+#     # Build debug_shared sheet placeholder (could extend to detect paragraph overlaps)
+#     debug_shared_df = pd.DataFrame([])
+
+#     # Write Excel with multi-sheets: summary, details, topics, debug_shared, glossaries
+#     with pd.ExcelWriter(out_xlsx, engine="xlsxwriter") as writer:
+#         summary_df.to_excel(writer, sheet_name="summary", index=False)
+#         details_df.to_excel(writer, sheet_name="details", index=False)
+#         topics_df.to_excel(writer, sheet_name="topics", index=False)
+#         debug_shared_df.to_excel(writer, sheet_name="debug_shared", index=False)
+#         pd.DataFrame({"diversity_terms": div_terms}).to_excel(writer, sheet_name="diversity_glossary", index=False)
+#         pd.DataFrame({"financial_terms": fin_terms}).to_excel(writer, sheet_name="financial_glossary", index=False)
+
+#     print(f"Wrote {out_xlsx} — summary rows: {len(summary_df)}, details rows: {len(details_df)}, topics rows: {len(topics_df)}")
 def run_pipeline(src_dir, out_xlsx, limit=5, use_bertopic=False):
-    if not os.path.exists(src_dir):
+    src = Path(src_dir)
+
+    if not src.exists():
         raise FileNotFoundError(f"Source directory not found: {src_dir}")
 
-    files = [f for f in os.listdir(src_dir) if f.endswith(".txt")]
+    files = [(p, "Uploaded") for p in sorted(src.glob("*.txt"))[:limit]]
     if not files:
         raise FileNotFoundError(f"No .txt files found in directory: {src_dir}")
 
@@ -337,11 +439,6 @@ def run_pipeline(src_dir, out_xlsx, limit=5, use_bertopic=False):
     fin_terms = load_glossary(FINANCIAL_GLOSSARY_PATH)
     div_term_patterns = compile_term_patterns(div_terms)
     fin_term_patterns = compile_term_patterns(fin_terms)
-
-    # collect files with dataset labels
-    files = [(p, "10-K") for p in sorted(src.glob("*.txt"))]
-    files += [(p, "DEF14") for p in sorted(extra.glob("*.txt"))]
-    files = files[:limit]   # still respects limit
 
     summaries = []
     all_details = []
@@ -354,12 +451,11 @@ def run_pipeline(src_dir, out_xlsx, limit=5, use_bertopic=False):
         except Exception as e:
             print(f"Error processing {path.name}: {e}")
 
-
     # write intermediate sheets
     summary_df = pd.DataFrame(summaries)
     details_df = pd.DataFrame(all_details)
 
-    # Topic modeling on sentences in details_df
+    # topic modeling...
     topics_rows = []
     if not details_df.empty:
         sentences = details_df["Sentence"].astype(str).tolist()
@@ -367,16 +463,10 @@ def run_pipeline(src_dir, out_xlsx, limit=5, use_bertopic=False):
             tm = run_bertopic(sentences)
             if tm:
                 topic_ids = tm["topics"]
-                # create topic labels from model
-                topic_info = tm["model"].get_topic_info()
-                # extract representative keywords via get_topic
                 topic_labels = {}
                 for tid in set(topic_ids):
                     top_words = tm["model"].get_topic(tid)
-                    if top_words:
-                        topic_labels[tid] = ", ".join([w for w, _ in top_words[:10]])
-                    else:
-                        topic_labels[tid] = ""
+                    topic_labels[tid] = ", ".join([w for w, _ in top_words[:10]]) if top_words else ""
                 for i, row in details_df.reset_index(drop=True).iterrows():
                     topics_rows.append({
                         "File": row["File"],
@@ -390,7 +480,6 @@ def run_pipeline(src_dir, out_xlsx, limit=5, use_bertopic=False):
                         "MatchedTerms": row.get("MatchedTerms", "")
                     })
         else:
-            # LDA fallback
             lda_res = run_lda(sentences, n_topics=TOPIC_NUM)
             if lda_res:
                 topic_ids = lda_res["topic_ids"]
@@ -410,11 +499,8 @@ def run_pipeline(src_dir, out_xlsx, limit=5, use_bertopic=False):
                     })
 
     topics_df = pd.DataFrame(topics_rows)
-
-    # Build debug_shared sheet placeholder (could extend to detect paragraph overlaps)
     debug_shared_df = pd.DataFrame([])
 
-    # Write Excel with multi-sheets: summary, details, topics, debug_shared, glossaries
     with pd.ExcelWriter(out_xlsx, engine="xlsxwriter") as writer:
         summary_df.to_excel(writer, sheet_name="summary", index=False)
         details_df.to_excel(writer, sheet_name="details", index=False)
@@ -424,6 +510,9 @@ def run_pipeline(src_dir, out_xlsx, limit=5, use_bertopic=False):
         pd.DataFrame({"financial_terms": fin_terms}).to_excel(writer, sheet_name="financial_glossary", index=False)
 
     print(f"Wrote {out_xlsx} — summary rows: {len(summary_df)}, details rows: {len(details_df)}, topics rows: {len(topics_df)}")
+
+
+
 
 # ---------------------------
 # CLI
@@ -437,4 +526,5 @@ if __name__ == "__main__":
     args = ap.parse_args()
 
     run_pipeline(args.src_dir, args.out_xlsx, limit=args.limit, use_bertopic=args.bertopic)
+
 
