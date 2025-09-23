@@ -21,6 +21,7 @@ pytz==2025.2
 PyYAML==6.0.2
 regex==2025.9.1
 requests==2.32.5
+rich>=10.14.0,<14
 safetensors==0.6.2
 six==1.17.0
 sympy==1.13.1
@@ -49,6 +50,7 @@ torch==2.5.0
 
 # Frontend / serving
 streamlit==1.38.0
+
 
 
 
