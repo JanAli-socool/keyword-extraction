@@ -63,12 +63,18 @@ if st.button("Run Pipeline"):
 
                     st.success("Pipeline completed!")
 
-                    # --- Preview results ---
+                    # --- Preview results ---# --- Preview results ---
                     if os.path.exists(out_xlsx):
                         try:
-                            df = pd.read_excel(out_xlsx, sheet_name="summary")
-                            st.subheader("Preview of Results (Summary Sheet)")
-                            st.dataframe(df.head(50))
+                            # Read diversity & financial sheets instead of 'summary'
+                            df_div = pd.read_excel(out_xlsx, sheet_name="diversity_output")
+                            df_fin = pd.read_excel(out_xlsx, sheet_name="financial_output")
+                    
+                            # Combine both for a "summary-like" preview
+                            df_summary = pd.concat([df_div, df_fin], ignore_index=True)
+                    
+                            st.subheader("Preview of Results (Combined Summary)")
+                            st.dataframe(df_summary.head(50))
                         except Exception as e:
                             st.warning(f"Could not preview Excel file: {e}")
 
