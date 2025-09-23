@@ -58,7 +58,8 @@ if st.button("Run Pipeline"):
 
                     for i, stage in enumerate(stages, 1):
                         progress_text.text(f"Step {i}/{len(stages)}: {stage}")
-                        run_pipeline(tmp_dir, out_xlsx, limit=limit, use_bertopic=use_bertopic)
+                        run_pipeline(tmp_dir, out_xlsx, limit=limit)
+                        # run_pipeline(tmp_dir, out_xlsx, limit=limit, use_bertopic=use_bertopic)
 
                     st.success("Pipeline completed!")
 
