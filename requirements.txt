@@ -29,6 +29,7 @@ tqdm==4.67.1
 typing_extensions==4.15.0
 tzdata==2025.2
 urllib3==2.5.0
+umap-learn==0.5.9.post2
 
 # Data science stack
 numpy==2.2.6
@@ -48,6 +49,7 @@ torch==2.5.0
 
 # Frontend / serving
 streamlit==1.38.0
+
 
 
 
