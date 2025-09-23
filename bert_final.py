@@ -19,9 +19,17 @@ import pandas as pd
 import numpy as np
 from tqdm import tqdm
 from bs4 import BeautifulSoup
-from umap import UMAP
-import nltk
+from umap import UMAPimport nltk
+
+# Download standard punkt
 nltk.download("punkt", quiet=True)
+
+# Fallback for punkt_tab if needed
+try:
+    nltk.data.find("tokenizers/punkt_tab/english.pickle")
+except LookupError:
+    nltk.download("punkt_tab")
+
 from nltk.tokenize import sent_tokenize
 
 from bertopic import BERTopic
@@ -299,3 +307,4 @@ if __name__ == "__main__":
     ap.add_argument("--limit", type=int, default=200)
     args = ap.parse_args()
     run_pipeline(args.src_dir, args.out_xlsx, limit=args.limit)
+
