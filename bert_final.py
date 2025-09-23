@@ -20,7 +20,7 @@ import numpy as np
 from tqdm import tqdm
 from bs4 import BeautifulSoup
 from umap import UMAPimport nltk
-
+import nltk
 # Download standard punkt
 nltk.download("punkt", quiet=True)
 
@@ -307,4 +307,5 @@ if __name__ == "__main__":
     ap.add_argument("--limit", type=int, default=200)
     args = ap.parse_args()
     run_pipeline(args.src_dir, args.out_xlsx, limit=args.limit)
+
 
